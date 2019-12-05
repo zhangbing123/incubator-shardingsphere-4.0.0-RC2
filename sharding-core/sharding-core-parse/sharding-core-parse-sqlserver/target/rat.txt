@@ -1,0 +1,50 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:08:40+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 24
+
+Apache Licensed: 24
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/Alphabet.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/BaseRule.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/Comments.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/DCLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/DDLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/DMLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/Keyword.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/Literals.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/SQLServerKeyword.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/StoreProcedure.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/Symbol.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/imports/sqlserver/TCLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/antlr4/org/apache/shardingsphere/core/parse/autogen/SQLServerStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/ddl/SQLServerAddPrimaryKeyExtractor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/tcl/SetImplicitTransactionsExtractor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/java/org/apache/shardingsphere/core/parse/core/filler/tcl/SQLServerImplicitTransactionsFiller.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/java/org/apache/shardingsphere/core/parse/sql/segment/tcl/ImplicitTransactionsSegment.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/java/org/apache/shardingsphere/core/parse/SQLServerParser.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/java/org/apache/shardingsphere/core/parse/SQLServerParserEntry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/resources/META-INF/parsing-rule-definition/sqlserver/extractor-rule-definition.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/resources/META-INF/parsing-rule-definition/sqlserver/filler-rule-definition.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/resources/META-INF/parsing-rule-definition/sqlserver/sql-statement-rule-definition.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/resources/META-INF/services/org.apache.shardingsphere.core.parse.spi.SQLParserEntry
+ 
+*****************************************************

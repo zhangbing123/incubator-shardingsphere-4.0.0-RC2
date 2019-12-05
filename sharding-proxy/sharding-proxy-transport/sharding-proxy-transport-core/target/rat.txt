@@ -1,0 +1,35 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:10:21+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 9
+
+Apache Licensed: 9
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/src/main/java/org/apache/shardingsphere/shardingproxy/transport/codec/DatabasePacketCodecEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/src/main/java/org/apache/shardingsphere/shardingproxy/transport/codec/PacketCodec.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/src/main/java/org/apache/shardingsphere/shardingproxy/transport/packet/CommandPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/src/main/java/org/apache/shardingsphere/shardingproxy/transport/packet/CommandPacketType.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/src/main/java/org/apache/shardingsphere/shardingproxy/transport/packet/DatabasePacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/src/main/java/org/apache/shardingsphere/shardingproxy/transport/payload/PacketPayload.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/src/test/java/org/apache/shardingsphere/shardingproxy/transport/codec/PacketCodecTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/src/test/resources/logback-test.xml
+ 
+*****************************************************

@@ -1,0 +1,59 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:08:00+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 33
+
+Apache Licensed: 33
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/Alphabet.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/BaseRule.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/Comments.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/DALStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/DCLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/DDLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/DMLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/Keyword.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/Literals.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/MySQLKeyword.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/StoreProcedure.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/Symbol.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/imports/mysql/TCLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/antlr4/org/apache/shardingsphere/core/parse/autogen/MySQLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/dal/MySQLFromSchemaExtractor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/dal/MySQLShowLikeExtractor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/ddl/MySQLAddColumnDefinitionExtractor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/ddl/MySQLChangeColumnDefinitionExtractor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/ddl/MySQLColumnPositionExtractor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/ddl/MySQLDropPrimaryKeyExtractor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/ddl/MySQLModifyColumnDefinitionExtractor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/tcl/MySQLSetAutoCommitExtractor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/core/filler/tcl/MySQLAutoCommitFiller.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/MySQLParser.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/MySQLParserEntry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/sql/segment/dal/FromSchemaSegment.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/sql/segment/dal/ShowLikeSegment.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java/org/apache/shardingsphere/core/parse/sql/segment/tcl/AutoCommitSegment.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/resources/META-INF/parsing-rule-definition/mysql/extractor-rule-definition.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/resources/META-INF/parsing-rule-definition/mysql/filler-rule-definition.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/resources/META-INF/parsing-rule-definition/mysql/sql-statement-rule-definition.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/resources/META-INF/services/org.apache.shardingsphere.core.parse.spi.SQLParserEntry
+ 
+*****************************************************

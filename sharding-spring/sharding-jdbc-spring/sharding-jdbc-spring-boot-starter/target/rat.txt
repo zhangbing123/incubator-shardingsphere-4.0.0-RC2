@@ -1,0 +1,57 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:11:58+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 31
+
+Apache Licensed: 31
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/spring/boot/common/SpringBootPropertiesConfigurationProperties.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/spring/boot/encrypt/EncryptRuleCondition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/spring/boot/encrypt/SpringBootEncryptRuleConfigurationProperties.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/spring/boot/masterslave/MasterSlaveRuleCondition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/spring/boot/masterslave/SpringBootMasterSlaveRuleConfigurationProperties.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/spring/boot/sharding/ShardingRuleCondition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/spring/boot/sharding/SpringBootShardingRuleConfigurationProperties.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/spring/boot/SpringBootConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/spring/boot/util/DataSourceUtil.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/spring/boot/util/PropertyUtil.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/resources/META-INF/additional-spring-configuration-metadata.json
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/resources/META-INF/spring.factories
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/resources/META-INF/spring.provides
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/spring/boot/fixture/TestJndiInitialContextFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/spring/boot/fixture/TestShardingEncryptor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/spring/boot/type/SpringBootBroadcastTableTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/spring/boot/type/SpringBootEncryptTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/spring/boot/type/SpringBootJndiTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/spring/boot/type/SpringBootMasterSlaveTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/spring/boot/type/SpringBootRawDataSourceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/spring/boot/type/SpringBootShardingTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/spring/boot/util/DataSourceUtilTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/resources/application-broadcast-table.properties
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/resources/application-encrypt.properties
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/resources/application-jndi.properties
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/resources/application-masterslave.properties
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/resources/application-raw.properties
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/resources/application-sharding.properties
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/resources/logback-test.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/test/resources/META-INF/services/org.apache.shardingsphere.spi.encrypt.ShardingEncryptor
+ 
+*****************************************************

@@ -1,0 +1,6 @@
+org\apache\shardingsphere\shardingproxy\frontend\api\CommandExecutor.class
+org\apache\shardingsphere\shardingproxy\frontend\engine\AuthenticationEngine.class
+org\apache\shardingsphere\shardingproxy\frontend\context\FrontendContext.class
+org\apache\shardingsphere\shardingproxy\frontend\engine\CommandExecuteEngine.class
+org\apache\shardingsphere\shardingproxy\frontend\api\QueryCommandExecutor.class
+org\apache\shardingsphere\shardingproxy\frontend\spi\DatabaseProtocolFrontendEngine.class

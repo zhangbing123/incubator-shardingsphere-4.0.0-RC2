@@ -1,0 +1,34 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:10:45+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 8
+
+Apache Licensed: 8
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/main/java/org/apache/shardingsphere/transaction/xa/atomikos/manager/AtomikosTransactionManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/main/java/org/apache/shardingsphere/transaction/xa/atomikos/manager/AtomikosXARecoverableResource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/main/resources/jta.properties
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/test/java/org/apache/shardingsphere/transaction/xa/atomikos/manager/AtomikosTransactionManagerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/test/java/org/apache/shardingsphere/transaction/xa/atomikos/manager/AtomikosXARecoverableResourceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/test/java/org/apache/shardingsphere/transaction/xa/atomikos/manager/fixture/ReflectiveUtil.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/test/resources/jta.properties
+ 
+*****************************************************

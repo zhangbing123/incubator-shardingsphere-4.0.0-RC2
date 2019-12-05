@@ -1,0 +1,4 @@
+org.apache.shardingsphere.test.sql
+org.apache.shardingsphere.test.sql.loader
+org.apache.shardingsphere.test.sql.loader.encrypt
+org.apache.shardingsphere.test.sql.loader.sharding

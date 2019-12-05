@@ -1,0 +1,13 @@
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\PostgreSQLCommandExecutorFactory.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\query\text\PostgreSQLComQueryExecutor.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\PostgreSQLProtocolFrontendEngine.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\auth\PostgreSQLAuthenticationEngine.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\PostgreSQLCommandExecuteEngine.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\query\binary\describe\PostgreSQLComDescribeExecutor.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\query\binary\bind\PostgreSQLComBindExecutor.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\generic\PostgreSQLComTerminationExecutor.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\PostgreSQLCommandExecutorFactory$1.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\generic\PostgreSQLUnsupportedCommandExecutor.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\query\binary\sync\PostgreSQLComSyncExecutor.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\query\binary\execute\PostgreSQLComExecuteExecutor.class
+org\apache\shardingsphere\shardingproxy\frontend\postgresql\command\query\binary\parse\PostgreSQLComParseExecutor.class

@@ -1,0 +1,7 @@
+org\apache\shardingsphere\opentracing\constant\ShardingErrorLogTags.class
+org\apache\shardingsphere\opentracing\hook\ShardingErrorSpan.class
+org\apache\shardingsphere\opentracing\constant\ShardingTags.class
+org\apache\shardingsphere\opentracing\hook\OpenTracingParsingHook.class
+org\apache\shardingsphere\opentracing\hook\OpenTracingSQLExecutionHook.class
+org\apache\shardingsphere\opentracing\hook\OpenTracingRootInvokeHook.class
+org\apache\shardingsphere\opentracing\ShardingTracer.class

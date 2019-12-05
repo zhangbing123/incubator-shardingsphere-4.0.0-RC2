@@ -1,0 +1,4 @@
+org.apache.shardingsphere.shardingjdbc.orchestration.spring.datasource
+org.apache.shardingsphere.shardingjdbc.orchestration.spring.namespace.constants
+org.apache.shardingsphere.shardingjdbc.orchestration.spring.namespace.handler
+org.apache.shardingsphere.shardingjdbc.orchestration.spring.namespace.parser

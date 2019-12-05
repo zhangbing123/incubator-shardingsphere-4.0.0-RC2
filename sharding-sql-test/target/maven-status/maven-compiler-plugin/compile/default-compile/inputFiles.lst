@@ -1,0 +1,7 @@
+D:\GitSource\incubator-shardingsphere-4.0.0-RC2\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\SQLCases.java
+D:\GitSource\incubator-shardingsphere-4.0.0-RC2\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\loader\encrypt\EncryptSQLCasesRegistry.java
+D:\GitSource\incubator-shardingsphere-4.0.0-RC2\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\SQLCaseType.java
+D:\GitSource\incubator-shardingsphere-4.0.0-RC2\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\loader\sharding\ShardingSQLCasesRegistry.java
+D:\GitSource\incubator-shardingsphere-4.0.0-RC2\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\loader\SQLCasesLoader.java
+D:\GitSource\incubator-shardingsphere-4.0.0-RC2\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\loader\sharding\ShardingUnsupportedSQLCasesRegistry.java
+D:\GitSource\incubator-shardingsphere-4.0.0-RC2\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\SQLCase.java

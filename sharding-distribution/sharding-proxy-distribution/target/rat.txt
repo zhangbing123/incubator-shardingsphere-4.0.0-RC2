@@ -1,0 +1,39 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:12:16+08:00
+
+Notes: 2
+Binaries: 0
+Archives: 0
+Standards: 11
+
+Apache Licensed: 11
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/assembly/sharding-proxy-binary-distribution.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/docker/Dockerfile
+  N     D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/release-docs/LICENSE
+  N     D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/release-docs/NOTICE
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/resources/bin/start.bat
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/resources/bin/start.sh
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/resources/bin/stop.sh
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/resources/conf/config-encrypt.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/resources/conf/config-master_slave.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/resources/conf/config-sharding.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/resources/conf/server.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-distribution/sharding-proxy-distribution/src/main/resources/logback.xml
+ 
+*****************************************************

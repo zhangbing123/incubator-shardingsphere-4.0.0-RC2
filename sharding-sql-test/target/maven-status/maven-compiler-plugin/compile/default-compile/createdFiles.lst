@@ -1,0 +1,8 @@
+org\apache\shardingsphere\test\sql\SQLCase.class
+org\apache\shardingsphere\test\sql\loader\SQLCasesLoader$1.class
+org\apache\shardingsphere\test\sql\loader\SQLCasesLoader.class
+org\apache\shardingsphere\test\sql\loader\sharding\ShardingSQLCasesRegistry.class
+org\apache\shardingsphere\test\sql\SQLCaseType.class
+org\apache\shardingsphere\test\sql\loader\encrypt\EncryptSQLCasesRegistry.class
+org\apache\shardingsphere\test\sql\SQLCases.class
+org\apache\shardingsphere\test\sql\loader\sharding\ShardingUnsupportedSQLCasesRegistry.class

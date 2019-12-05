@@ -1,0 +1,33 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:07:07+08:00
+
+Notes: 3
+Binaries: 0
+Archives: 0
+Standards: 4
+
+Apache Licensed: 4
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  N     DISCLAIMER
+  AL    jenkinsfile
+  N     LICENSE
+  N     NOTICE
+  AL    pom.xml
+  AL    src/resources/checkstyle.xml
+  AL    src/resources/ruleset.xml
+ 
+*****************************************************

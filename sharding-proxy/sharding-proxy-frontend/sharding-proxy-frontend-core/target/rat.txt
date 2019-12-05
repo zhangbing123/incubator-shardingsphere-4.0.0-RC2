@@ -1,0 +1,40 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:11:13+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 14
+
+Apache Licensed: 14
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/bootstrap/ShardingProxy.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/command/CommandExecutorTask.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/ConnectionIdGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/DatabaseProtocolFrontendEngineFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/executor/ChannelThreadExecutorGroup.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/executor/CommandExecutorSelector.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/executor/UserExecutorGroup.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/netty/FrontendChannelInboundHandler.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/netty/ServerHandlerInitializer.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/ConnectionIdGeneratorTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/DatabaseFrontendEngineFactoryTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/executor/ChannelThreadExecutorGroupTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/executor/ExecutorGroupTest.java
+ 
+*****************************************************

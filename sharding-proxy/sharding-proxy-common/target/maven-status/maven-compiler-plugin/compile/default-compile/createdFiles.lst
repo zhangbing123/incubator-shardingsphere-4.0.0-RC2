@@ -1,0 +1,10 @@
+org\apache\shardingsphere\shardingproxy\config\yaml\YamlProxyServerConfiguration.class
+org\apache\shardingsphere\shardingproxy\config\ShardingConfiguration.class
+org\apache\shardingsphere\shardingproxy\error\SQLErrorCode.class
+org\apache\shardingsphere\shardingproxy\util\DataSourceConverter.class
+org\apache\shardingsphere\shardingproxy\config\ShardingConfigurationLoader.class
+org\apache\shardingsphere\shardingproxy\config\yaml\YamlProxyRuleConfiguration.class
+org\apache\shardingsphere\shardingproxy\config\yaml\YamlDataSourceParameter.class
+org\apache\shardingsphere\shardingproxy\config\ShardingConfigurationLoader$1.class
+org\apache\shardingsphere\shardingproxy\context\ShardingProxyContext.class
+org\apache\shardingsphere\shardingproxy\error\CommonErrorCode.class

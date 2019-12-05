@@ -1,0 +1,101 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:09:03+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 75
+
+Apache Licensed: 75
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/builder/BaseParameterBuilder.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/builder/InsertParameterBuilder.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/builder/InsertParameterUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/builder/ParameterBuilder.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/builder/SQLBuilder.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/SQLRewriteEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/BaseTokenGenerateEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/EncryptTokenGenerateEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/AggregationDistinctTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/CollectionSQLTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/IgnoreForSingleRoute.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/IndexTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertCipherNameTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertGeneratedKeyNameTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertQueryAndPlainNamesTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertRegularNamesTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertSetCipherColumnTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertSetGeneratedKeyColumnTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertSetQueryAndPlainColumnsTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertValuesTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/OffsetTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/OptionalSQLTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/OrderByTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/RemoveTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/RowCountTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/SelectEncryptItemTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/SelectItemPrefixTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/SelectItemsTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/SQLTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/TableTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/UpdateEncryptColumnTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/WhereEncryptColumnTokenGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/AggregationDistinctToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/Alterable.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/Attachable.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/EncryptColumnToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/IndexToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/InsertCipherNameToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/InsertGeneratedKeyNameToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/InsertQueryAndPlainNamesToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/InsertRegularNamesToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/InsertSetCipherColumnToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/InsertSetGeneratedKeyColumnToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/InsertSetQueryAndPlainColumnsToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/InsertValuesToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/OffsetToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/OrderByToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/RemoveToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/RowCountToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/SelectEncryptItemToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/SelectItemPrefixToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/SelectItemsToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/SQLToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/Substitutable.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/TableToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/UpdateEncryptLiteralColumnToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/UpdateEncryptParameterColumnToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/pojo/WhereEncryptColumnToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/ShardingTokenGenerateEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/SQLTokenGenerateEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/builder/BaseParameterBuilderTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/builder/InsertParameterBuilderTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/builder/SQLBuilderTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/fixture/TestQueryAssistedShardingEncryptor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/fixture/TestShardingEncryptor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/rewriter/EncryptSQLRewriteEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/rewriter/ShardingSQLRewriteEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/token/pojo/UpdateEncryptLiteralColumnTokenTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/token/pojo/UpdateEncryptParameterColumnTokenTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/token/SQLTokenGenerateEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/token/WhereEncryptColumnTokenTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/resources/logback-test.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/resources/META-INF/services/org.apache.shardingsphere.spi.encrypt.ShardingEncryptor
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-rewrite/src/test/resources/yaml/rewrite-rule.yaml
+ 
+*****************************************************

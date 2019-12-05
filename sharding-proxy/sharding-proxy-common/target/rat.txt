@@ -1,0 +1,45 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:10:17+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 19
+
+Apache Licensed: 19
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/ShardingConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/ShardingConfigurationLoader.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/yaml/YamlDataSourceParameter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/yaml/YamlProxyRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/yaml/YamlProxyServerConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/context/ShardingProxyContext.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/error/CommonErrorCode.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/error/SQLErrorCode.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/util/DataSourceConverter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/test/java/org/apache/shardingsphere/shardingproxy/config/ShardingConfigurationLoaderTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/test/java/org/apache/shardingsphere/shardingproxy/context/ShardingProxyContextTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/test/java/org/apache/shardingsphere/shardingproxy/error/CommonErrorCodeTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/test/java/org/apache/shardingsphere/shardingproxy/util/DataSourceConverterTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/test/resources/conf/config-empty.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/test/resources/conf/config-encrypt.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/test/resources/conf/config-master_slave.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/test/resources/conf/config-sharding.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-common/src/test/resources/conf/server.yaml
+ 
+*****************************************************

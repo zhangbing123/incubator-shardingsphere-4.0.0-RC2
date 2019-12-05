@@ -1,0 +1,70 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:10:35+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 44
+
+Apache Licensed: 44
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/codec/PostgreSQLPacketCodecEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/constant/PostgreSQLColumnType.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/admin/PostgreSQLUnsupportedCommandPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/PostgreSQLCommandPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/PostgreSQLCommandPacketFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/PostgreSQLCommandPacketType.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/PostgreSQLCommandPacketTypeLoader.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/BinaryStatementRegistry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/PostgreSQLBinaryResultSetRowPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/PostgreSQLBindCompletePacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/PostgreSQLComBindPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLBinaryProtocolValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLBinaryProtocolValueFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLDateBinaryProtocolValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLDoubleBinaryProtocolValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLFloatBinaryProtocolValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLInt2BinaryProtocolValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLInt4BinaryProtocolValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLInt8BinaryProtocolValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLStringBinaryProtocolValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLTimeBinaryProtocolValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/ConnectionScopeBinaryStatementRegistry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/describe/PostgreSQLComDescribePacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/execute/PostgreSQLComExecutePacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/parse/PostgreSQLComParsePacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/parse/PostgreSQLParseCompletePacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/PostgreSQLBinaryStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/PostgreSQLBinaryStatementParameterType.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/binary/sync/PostgreSQLComSyncPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/PostgreSQLColumnDescription.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/PostgreSQLRowDescriptionPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/text/PostgreSQLComQueryPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/command/query/text/PostgreSQLDataRowPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/generic/PostgreSQLCommandCompletePacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/generic/PostgreSQLComTerminationPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/generic/PostgreSQLErrorResponsePacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/generic/PostgreSQLReadyForQueryPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/handshake/PostgreSQLAuthenticationOKPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/handshake/PostgreSQLComStartupPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/handshake/PostgreSQLParameterStatusPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/handshake/PostgreSQLSSLNegativePacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/packet/PostgreSQLPacket.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java/org/apache/shardingsphere/shardingproxy/transport/postgresql/payload/PostgreSQLPacketPayload.java
+ 
+*****************************************************

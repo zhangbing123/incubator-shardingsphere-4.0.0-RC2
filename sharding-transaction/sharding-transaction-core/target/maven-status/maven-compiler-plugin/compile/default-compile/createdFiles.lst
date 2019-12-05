@@ -1,0 +1,9 @@
+org\apache\shardingsphere\transaction\core\TransactionTypeHolder$1.class
+org\apache\shardingsphere\transaction\core\TransactionTypeHolder.class
+org\apache\shardingsphere\transaction\core\ResourceDataSource.class
+org\apache\shardingsphere\transaction\ShardingTransactionManagerEngine.class
+org\apache\shardingsphere\transaction\core\ResourceIDGenerator.class
+org\apache\shardingsphere\transaction\annotation\ShardingTransactionType.class
+org\apache\shardingsphere\transaction\core\TransactionType.class
+org\apache\shardingsphere\transaction\spi\ShardingTransactionManager.class
+org\apache\shardingsphere\transaction\core\TransactionOperationType.class

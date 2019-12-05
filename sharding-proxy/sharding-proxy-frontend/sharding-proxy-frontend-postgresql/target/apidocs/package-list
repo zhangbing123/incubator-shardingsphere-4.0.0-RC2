@@ -1,0 +1,10 @@
+org.apache.shardingsphere.shardingproxy.frontend.postgresql
+org.apache.shardingsphere.shardingproxy.frontend.postgresql.auth
+org.apache.shardingsphere.shardingproxy.frontend.postgresql.command
+org.apache.shardingsphere.shardingproxy.frontend.postgresql.command.generic
+org.apache.shardingsphere.shardingproxy.frontend.postgresql.command.query.binary.bind
+org.apache.shardingsphere.shardingproxy.frontend.postgresql.command.query.binary.describe
+org.apache.shardingsphere.shardingproxy.frontend.postgresql.command.query.binary.execute
+org.apache.shardingsphere.shardingproxy.frontend.postgresql.command.query.binary.parse
+org.apache.shardingsphere.shardingproxy.frontend.postgresql.command.query.binary.sync
+org.apache.shardingsphere.shardingproxy.frontend.postgresql.command.query.text

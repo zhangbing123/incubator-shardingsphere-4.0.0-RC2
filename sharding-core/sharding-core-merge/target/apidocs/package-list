@@ -1,0 +1,10 @@
+org.apache.shardingsphere.core.merge
+org.apache.shardingsphere.core.merge.dal
+org.apache.shardingsphere.core.merge.dal.show
+org.apache.shardingsphere.core.merge.dql
+org.apache.shardingsphere.core.merge.dql.common
+org.apache.shardingsphere.core.merge.dql.groupby
+org.apache.shardingsphere.core.merge.dql.groupby.aggregation
+org.apache.shardingsphere.core.merge.dql.iterator
+org.apache.shardingsphere.core.merge.dql.orderby
+org.apache.shardingsphere.core.merge.dql.pagination

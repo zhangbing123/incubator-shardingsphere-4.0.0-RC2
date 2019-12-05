@@ -1,0 +1,31 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:11:41+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 5
+
+Apache Licensed: 5
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager/src/main/java/org/apache/shardingsphere/transaction/xa/bitronix/manager/BitronixRecoveryResource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager/src/main/java/org/apache/shardingsphere/transaction/xa/bitronix/manager/BitronixXATransactionManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager/src/main/java/org/apache/shardingsphere/transaction/xa/bitronix/manager/SingleXAResourceHolder.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager/src/main/resources/META-INF/services/org.apache.shardingsphere.transaction.xa.spi.XATransactionManager
+ 
+*****************************************************

@@ -1,0 +1,74 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:09:08+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 48
+
+Apache Licensed: 48
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/hook/RootInvokeHook.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/hook/SPIRootInvokeHook.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/hook/SPISQLExecutionHook.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/hook/SQLExecutionHook.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/metadata/TableMetaDataConnectionManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/metadata/TableMetaDataInitializer.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/metadata/TableMetaDataLoader.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingExecuteCallback.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingExecuteDataMap.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingExecuteEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingExecuteGroup.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingExecutorService.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingGroupExecuteCallback.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingThreadFactoryBuilder.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/AggregationDistinctQueryMetaData.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/AggregationDistinctQueryResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/DistinctQueryResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/MemoryQueryResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/QueryResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/QueryResultMetaData.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/QueryResultUtil.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/StreamQueryResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/row/QueryRow.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/SQLExecuteCallback.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/SQLExecuteTemplate.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/threadlocal/ExecutorExceptionHandler.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/prepare/SQLExecutePrepareCallback.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/prepare/SQLExecutePrepareTemplate.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/StatementExecuteUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/hook/fixture/RootInvokeHookFixture.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/hook/fixture/SQLExecutionHookFixture.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/hook/SPIRootInvokeHookTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/hook/SPISQLExecutionHookTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/ShardingExecuteEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/result/AggregationDistinctQueryMetaDataTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/result/AggregationDistinctQueryResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/result/DistinctQueryResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/result/MemoryQueryResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/result/QueryResultMetaDataTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/result/QueryResultUtilTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/result/StreamQueryResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/row/QueryRowTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/prepare/SQLExecutePrepareTemplateTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/threadlocal/ExecutorExceptionHandlerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/resources/logback-test.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/resources/META-INF/services/org.apache.shardingsphere.core.execute.hook.RootInvokeHook
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-execute/src/test/resources/META-INF/services/org.apache.shardingsphere.core.execute.hook.SQLExecutionHook
+ 
+*****************************************************

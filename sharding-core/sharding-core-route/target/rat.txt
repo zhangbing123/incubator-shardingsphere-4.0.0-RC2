@@ -1,0 +1,75 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:08:57+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 49
+
+Apache Licensed: 49
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/BatchRouteUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/hook/RoutingHook.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/hook/SPIRoutingHook.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/PreparedStatementRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/masterslave/MasterSlaveRouter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/masterslave/MasterVisitedManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/masterslave/ShardingMasterSlaveRouter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/DatabaseHintSQLRouter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ParsingSQLRouter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/RoutingEngineFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ShardingRouter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ShardingRouterFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/RouteUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/SQLLogger.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/SQLRouteResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/SQLUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/StatementRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/broadcast/DatabaseBroadcastRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/broadcast/DataSourceGroupBroadcastRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/broadcast/InstanceBroadcastRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/broadcast/TableBroadcastRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/complex/CartesianRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/complex/ComplexRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/defaultdb/DefaultDatabaseRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/hint/DatabaseHintRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/ignore/IgnoreRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/RoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/RoutingResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/RoutingUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/standard/StandardRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/TableUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/unicast/UnicastRoutingEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/DatabaseTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/fixture/HintShardingAlgorithmFixture.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/router/DatabaseHintSQLRouterTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/SQLLoggerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/broadcast/DatabaseBroadcastRoutingEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/broadcast/DataSourceGroupBroadcastRoutingEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/broadcast/TableBroadcastRoutingEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/complex/ComplexRoutingEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/defaultdb/DefaultDatabaseRoutingEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/hint/DatabaseHintRoutingEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/ignore/IgnoreRoutingEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/standard/AbstractSQLRouteTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/standard/SQLRouteTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/standard/StandardRoutingEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/standard/SubqueryRouteTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/unicast/UnicastRoutingEngineTest.java
+ 
+*****************************************************

@@ -1,0 +1,8 @@
+org.apache.shardingsphere.core.parse
+org.apache.shardingsphere.core.parse.autogen
+org.apache.shardingsphere.core.parse.core.extractor.dal
+org.apache.shardingsphere.core.parse.core.extractor.ddl
+org.apache.shardingsphere.core.parse.core.extractor.tcl
+org.apache.shardingsphere.core.parse.core.filler.tcl
+org.apache.shardingsphere.core.parse.sql.segment.dal
+org.apache.shardingsphere.core.parse.sql.segment.tcl

@@ -1,0 +1,78 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:12:12+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 52
+
+Apache Licensed: 52
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/datasource/OrchestrationSpringEncryptDataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/datasource/OrchestrationSpringMasterSlaveDataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/datasource/OrchestrationSpringShardingDataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/namespace/constants/EncryptDataSourceBeanDefinitionParserTag.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/namespace/constants/MasterSlaveDataSourceBeanDefinitionParserTag.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/namespace/constants/RegistryCenterBeanDefinitionParserTag.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/namespace/constants/ShardingDataSourceBeanDefinitionParserTag.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/namespace/handler/OrchestrationNamespaceHandler.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/namespace/parser/DataSourceBeanDefinitionParser.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/namespace/parser/RegBeanDefinitionParser.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/resources/META-INF/namespace/orchestration.xsd
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/resources/META-INF/spring.handlers
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/resources/META-INF/spring.schemas
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/algorithm/DefaultComplexKeysShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/algorithm/DefaultHintShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/algorithm/PreciseModuloDatabaseShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/algorithm/PreciseModuloTableShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/algorithm/RangeModuloDatabaseShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/algorithm/RangeModuloTableShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/fixture/DecrementKeyGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/fixture/IncrementKeyGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/OrchestrationEncryptNamespaceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/OrchestrationMasterSlaveNamespaceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/OrchestrationShardingMasterSlaveNamespaceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/OrchestrationShardingNamespaceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/registry/TestRegistryCenter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/util/EmbedTestingServer.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/util/FieldValueUtil.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/conf/rdb/conf.properties
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/conf/rdb/master_slave_conf.properties
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/logback-test.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/rdb/datasource/dataSource.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/rdb/datasource/masterSlaveDataSource.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/rdb/encryptOrchestration.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/rdb/masterSlaveOrchestration.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/rdb/namespace/encryptDataSourceNamespace.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/rdb/namespace/masterSlaveDataSourceNamespace.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/rdb/namespace/shardingDataSourceNamespace.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/rdb/namespace/shardingMasterSlaveNamespace.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/rdb/shardingMasterSlaveOrchestration.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/rdb/shardingOrchestration.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/services/org.apache.shardingsphere.orchestration.reg.api.RegistryCenter
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/META-INF/services/org.apache.shardingsphere.spi.keygen.ShardingKeyGenerator
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/schema/dbtbl_0.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/schema/dbtbl_0_master.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/schema/dbtbl_0_slave_0.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/schema/dbtbl_0_slave_1.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/schema/dbtbl_1.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/schema/dbtbl_1_master.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/schema/dbtbl_1_slave_0.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/test/resources/schema/dbtbl_1_slave_1.sql
+ 
+*****************************************************

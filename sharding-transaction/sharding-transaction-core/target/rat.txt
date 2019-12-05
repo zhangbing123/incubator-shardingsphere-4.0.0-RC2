@@ -1,0 +1,41 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:09:20+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 15
+
+Apache Licensed: 15
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/annotation/ShardingTransactionType.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/ResourceDataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/ResourceIDGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/TransactionOperationType.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/TransactionType.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/TransactionTypeHolder.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/ShardingTransactionManagerEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/spi/ShardingTransactionManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/fixture/OtherShardingTransactionManagerFixture.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/fixture/ShardingTransactionManagerFixture.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/TransactionTypeHolderTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/ShardingTransactionManagerEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/test/resources/logback-test.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-core/src/test/resources/META-INF/services/org.apache.shardingsphere.transaction.spi.ShardingTransactionManager
+ 
+*****************************************************

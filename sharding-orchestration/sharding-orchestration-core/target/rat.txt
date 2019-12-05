@@ -1,0 +1,104 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:09:48+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 78
+
+Apache Licensed: 78
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/config/OrchestrationConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/eventbus/ShardingOrchestrationEventBus.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/keygen/LeafSegmentKeyGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/event/AuthenticationChangedEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/event/DataSourceChangedEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/event/EncryptRuleChangedEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/event/IgnoredShardingOrchestrationEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/event/MasterSlaveRuleChangedEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/event/PropertiesChangedEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/event/SchemaAddedEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/event/SchemaDeletedEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/event/ShardingRuleChangedEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/listener/AuthenticationChangedListener.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/listener/ConfigurationChangedListenerManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/listener/PropertiesChangedListener.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/listener/SchemaChangedListener.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/node/ConfigurationNode.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/config/service/ConfigurationService.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/listener/PostShardingOrchestrationEventListener.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/listener/ShardingOrchestrationEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/listener/ShardingOrchestrationListener.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/listener/ShardingOrchestrationListenerManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/RegistryCenterServiceLoader.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/ShardingOrchestrationFacade.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/event/CircuitStateChangedEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/event/DisabledStateChangedEvent.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/instance/OrchestrationInstance.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/listener/DataSourceStateChangedListener.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/listener/InstanceStateChangedListener.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/listener/StateChangedListenerManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/node/StateNode.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/node/StateNodeStatus.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/schema/OrchestrationShardingSchema.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/schema/OrchestrationShardingSchemaGroup.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/registry/state/service/StateService.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/rule/OrchestrationMasterSlaveRule.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/rule/OrchestrationShardingRule.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/internal/util/IpUtils.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/yaml/config/YamlDataSourceConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/yaml/config/YamlOrchestrationConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/yaml/config/YamlRegistryCenterConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/yaml/swapper/DataSourceConfigurationYamlSwapper.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/yaml/swapper/OrchestrationConfigurationYamlSwapper.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/main/java/org/apache/shardingsphere/orchestration/yaml/swapper/RegistryCenterConfigurationYamlSwapper.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/eventbus/ShardingOrchestrationEventBusTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/keygen/LeafSegmentKeyGeneratorTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/config/listener/AuthenticationChangedListenerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/config/listener/ConfigurationChangedListenerManagerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/config/listener/PropertiesChangedListenerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/config/listener/SchemaChangedListenerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/config/node/ConfigurationNodeTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/config/service/ConfigurationServiceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/fixture/FirstTestRegistryCenter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/fixture/SecondTestRegistryCenter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/fixture/ThirdTestRegistryCenter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/listener/PostShardingOrchestrationEventListenerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/listener/ShardingOrchestrationListenerManagerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/RegistryCenterLoaderTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/ShardingOrchestrationFacadeTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/state/listener/DataSourceStateChangedListenerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/state/listener/InstanceStateChangedListenerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/state/listener/StateChangedListenerManagerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/state/node/StateNodeTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/state/schema/OrchestrationShardingSchemaGroupTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/state/schema/OrchestrationShardingSchemaTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/registry/state/service/StateServiceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/rule/OrchestrationMasterSlaveRuleTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/internal/rule/OrchestrationShardingRuleTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/util/FieldUtil.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/yaml/swapper/DataSourceConfigurationYamlSwapperTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/java/org/apache/shardingsphere/orchestration/yaml/swapper/OrchestrationConfigurationYamlSwapperTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/resources/logback-test.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/resources/META-INF/services/org.apache.shardingsphere.orchestration.reg.api.RegistryCenter
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/resources/yaml/datasource-configuration.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/resources/yaml/orchestration-configuration.max.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-orchestration/sharding-orchestration-core/src/test/resources/yaml/orchestration-configuration.min.yaml
+ 
+*****************************************************

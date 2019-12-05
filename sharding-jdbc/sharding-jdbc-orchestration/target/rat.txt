@@ -1,0 +1,93 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:10:06+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 67
+
+Apache Licensed: 67
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/OrchestrationEncryptDataSourceFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/OrchestrationMasterSlaveDataSourceFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/OrchestrationShardingDataSourceFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/YamlOrchestrationEncryptDataSourceFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/YamlOrchestrationMasterSlaveDataSourceFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/YamlOrchestrationShardingDataSourceFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/circuit/connection/CircuitBreakerConnection.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/circuit/datasource/CircuitBreakerDataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/circuit/metadata/CircuitBreakerDatabaseMetaData.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/circuit/resultset/CircuitBreakerResultSet.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/circuit/resultset/CircuitBreakerResultSetMetaData.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/circuit/statement/CircuitBreakerPreparedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/circuit/statement/CircuitBreakerStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/datasource/AbstractOrchestrationDataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/datasource/OrchestrationEncryptDataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/datasource/OrchestrationMasterSlaveDataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/datasource/OrchestrationShardingDataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/util/DataSourceConverter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/yaml/YamlOrchestrationEncryptRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/yaml/YamlOrchestrationMasterSlaveRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/yaml/YamlOrchestrationShardingRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/OrchestrationEncryptDataSourceFactoryTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/AbstractYamlDataSourceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/fixture/DecrementShardingKeyGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/fixture/IncrementShardingKeyGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/fixture/MultiAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/fixture/SingleAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/masterslave/YamlOrchestrationMasterSlaveIntegrateTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/sharding/YamlOrchestrationShardingIntegrateTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/sharding/YamlOrchestrationShardingWithMasterSlaveIntegrateTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/api/yaml/YamlOrchestrationEncryptDataSourceFactoryTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/circuit/connection/CircuitBreakerConnectionTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/circuit/datasource/CircuitBreakerDataSourceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/circuit/metadata/CircuitBreakerDatabaseMetaDataTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/datasource/OrchestrationEncryptDataSourceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/datasource/OrchestrationMasterSlaveDataSourceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/datasource/OrchestrationShardingDataSourceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/internal/util/DataSourceConverterTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/util/TestRegistryCenter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/logback-test.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/META-INF/services/org.apache.shardingsphere.orchestration.reg.api.RegistryCenter
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/META-INF/services/org.apache.shardingsphere.spi.keygen.ShardingKeyGenerator
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/integrate/ms/configWithMasterSlaveDataSourceWithoutProps.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/integrate/ms/configWithMasterSlaveDataSourceWithProps.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/integrate/sharding/configWithDataSourceWithoutProps.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/integrate/sharding/configWithDataSourceWithProps.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/integrate/sharding/configWithoutDataSourceWithoutProps.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/integrate/sharding/configWithoutDataSourceWithProps.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/integrate/sharding_ms/configWithDataSourceWithoutProps.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/integrate/sharding_ms/configWithDataSourceWithProps.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/integrate/sharding_ms/configWithoutDataSourceWithoutProps.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/integrate/sharding_ms/configWithoutDataSourceWithProps.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/schema/ms/db_master.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/schema/ms/db_slave_0.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/schema/ms/db_slave_1.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/schema/sharding/db0.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/schema/sharding/db1.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/schema/sharding_ms/db0_master.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/schema/sharding_ms/db0_slave.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/schema/sharding_ms/db1_master.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/schema/sharding_ms/db1_slave.sql
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/unit/encrypt.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/unit/encryptWithRegistryCenter.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/unit/masterSlave.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/unit/noRule.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-jdbc/sharding-jdbc-orchestration/src/test/resources/yaml/unit/sharding.yaml
+ 
+*****************************************************

@@ -1,0 +1,93 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:09:14+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 67
+
+Apache Licensed: 67
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/DALMergeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/show/LocalMergedResultAdapter.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/show/LogicTablesMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/show/ShowCreateTableMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/show/ShowDatabasesMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/show/ShowIndexMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/show/ShowOtherMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/show/ShowShardingCTLMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/show/ShowTablesMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/show/ShowTableStatusMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/common/DecoratorMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/common/MemoryMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/common/MemoryQueryResultRow.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/common/StreamMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/DQLMergeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/aggregation/AccumulationAggregationUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/aggregation/AggregationUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/aggregation/AggregationUnitFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/aggregation/AverageAggregationUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/aggregation/ComparableAggregationUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByMemoryMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByRowComparator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByStreamMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/iterator/IteratorStreamMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/orderby/CompareUtil.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/orderby/OrderByStreamMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/orderby/OrderByValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/pagination/LimitDecoratorMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/pagination/RowNumberDecoratorMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/pagination/TopAndRowNumberDecoratorMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/MergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/MergeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/MergeEngineFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/TransparentMergeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dal/DALMergeEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dal/show/ShowCreateTableMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dal/show/ShowDatabasesMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dal/show/ShowOtherMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dal/show/ShowTablesMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/common/DecoratorMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/common/fixture/TestDecoratorMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/common/fixture/TestMemoryMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/common/fixture/TestStreamMergedResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/common/MemoryMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/common/MemoryQueryResultRowTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/common/StreamMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/DQLMergeEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/aggregation/AccumulationAggregationUnitTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/aggregation/AggregationUnitFactoryTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/aggregation/AverageAggregationUnitTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/aggregation/ComparableAggregationUnitTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByMemoryMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByRowComparatorTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByStreamMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByValueTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/iterator/IteratorStreamMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/orderby/CompareUtilTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/orderby/OrderByStreamMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/orderby/OrderByValueTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/pagination/LimitDecoratorMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/pagination/RowNumberDecoratorMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/pagination/TopAndRowNumberDecoratorMergedResultTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/fixture/ComplexKeysShardingAlgorithmFixture.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/fixture/TestQueryResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/MergeEngineFactoryTest.java
+ 
+*****************************************************

@@ -1,0 +1,123 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:08:45+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 97
+
+Apache Licensed: 97
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/fixture/ComplexKeysShardingAlgorithmFixture.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/EncryptSQLStatementAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/groupby/GroupByAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/index/IndexAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/insert/AssignmentAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/insert/InsertNamesAndValuesAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/orderby/OrderByAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/pagination/PaginationAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/selectitem/SelectItemAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/ShardingSQLStatementAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/SQLStatementAssertMessage.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/table/AlterTableAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/asserts/table/TableAssert.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/engine/encrypt/EncryptParameterizedParsingTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/engine/sharding/ShardingParameterizedParsingTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/engine/sharding/ShardingParameterizedUnsupportedParsingTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/EncryptParserResultSetRegistry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/groupby/ExpectedGroupByColumn.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/insert/ExpectedAssignment.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/insert/ExpectedInsertColumnsAndValues.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/insert/ExpectedInsertValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/orderby/ExpectedOrderByColumn.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/pagination/ExpectedPaginationValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/ParserResultSetRegistry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/root/ParserResult.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/root/ParserResultSet.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedAggregationDistinctItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedAggregationItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedBaseSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedColumnSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedExpressionItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedRowNumberValueSegment.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedSchemaSegment.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedSelectItems.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedShorthandSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedTableSegment.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/selectitem/ExpectedTopSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/ShardingParserResultSetRegistry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/table/ExpectedAlterTable.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/table/ExpectedTable.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedAggregationDistinctToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedColumn.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedColumnDefinition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedColumnPosition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedGeneratedKeyToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedIndexToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedInsertColumnToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedInsertSetToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedInsertValueToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedRemoveToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedTableToken.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/java/org/apache/shardingsphere/core/parse/integrate/jaxb/token/ExpectedTokens.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/encrypt/delete.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/encrypt/insert.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/encrypt/select.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/encrypt/update.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dal/reset.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dal/set.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dal/show.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/alter_login.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/alter_role.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/alter_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/create_login.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/create_role.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/create_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/deny_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/drop_login.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/drop_role.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/drop_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/grant_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/rename_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/revoke_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/set_default_role.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/set_password.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dcl/set_role.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/ddl/alter.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/ddl/create.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/ddl/drop.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/ddl/truncate.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/delete.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/insert.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/select.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/select_aggregate.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/select_expression.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/select_group_by.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/select_or.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/select_order_by.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/select_pagination.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/select_pagination_group_by_order_by.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/select_relation.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/select_sub_query.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/dml/update.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/sharding/tcl/tcl.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/yaml/encrypt-rule.yaml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-test/src/test/resources/yaml/sharding-rule.yaml
+ 
+*****************************************************

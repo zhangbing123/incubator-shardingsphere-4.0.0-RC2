@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-test:4.3.26.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.26.BUILD-SNAPSHOT/spring-test-4.3.26.BUILD-20191201.101534-10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.26.BUILD-SNAPSHOT/spring-test-4.3.26.BUILD-20191201.101534-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.26.BUILD-SNAPSHOT/spring-test-4.3.26.BUILD-20191201.101534-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,44 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:11:30+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 18
+
+Apache Licensed: 18
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/main/java/org/apache/shardingsphere/opentracing/constant/ShardingErrorLogTags.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/main/java/org/apache/shardingsphere/opentracing/constant/ShardingTags.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/main/java/org/apache/shardingsphere/opentracing/hook/OpenTracingParsingHook.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/main/java/org/apache/shardingsphere/opentracing/hook/OpenTracingRootInvokeHook.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/main/java/org/apache/shardingsphere/opentracing/hook/OpenTracingSQLExecutionHook.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/main/java/org/apache/shardingsphere/opentracing/hook/ShardingErrorSpan.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/main/java/org/apache/shardingsphere/opentracing/ShardingTracer.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/main/resources/META-INF/services/org.apache.shardingsphere.core.execute.hook.RootInvokeHook
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/main/resources/META-INF/services/org.apache.shardingsphere.core.execute.hook.SQLExecutionHook
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/main/resources/META-INF/services/org.apache.shardingsphere.core.parse.hook.ParsingHook
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/test/java/org/apache/shardingsphere/opentracing/fixture/FooTracer.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/test/java/org/apache/shardingsphere/opentracing/hook/BaseOpenTracingHookTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/test/java/org/apache/shardingsphere/opentracing/hook/OpenTracingParsingHookTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/test/java/org/apache/shardingsphere/opentracing/hook/OpenTracingRootInvokeHookTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/test/java/org/apache/shardingsphere/opentracing/hook/OpenTracingSQLExecutionHookTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/test/java/org/apache/shardingsphere/opentracing/ShardingTracerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-opentracing/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker
+ 
+*****************************************************

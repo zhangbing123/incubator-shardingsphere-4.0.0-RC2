@@ -1,0 +1,129 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+sharding-jdbc-distribution
+
+
+From: 'an unknown organization'
+  - Atomikos Util (http://www.atomikos.com/ate/atomikos-util/) com.atomikos:atomikos-util:jar:4.0.6
+    License: Atomikos Multiple Licensing Scheme  (http://www.atomikos.com/Main/WhichLicenseApplies)
+  - Transactions Core (http://www.atomikos.com/ate/transactions/) com.atomikos:transactions:jar:4.0.6
+    License: Atomikos Multiple Licensing Scheme  (http://www.atomikos.com/Main/WhichLicenseApplies)
+  - Transactions API (http://www.atomikos.com/ate/transactions-api/) com.atomikos:transactions-api:jar:4.0.6
+    License: Atomikos Multiple Licensing Scheme  (http://www.atomikos.com/Main/WhichLicenseApplies)
+  - Transactions JDBC (http://www.atomikos.com/ate/transactions-jdbc/) com.atomikos:transactions-jdbc:jar:4.0.6
+    License: Atomikos Multiple Licensing Scheme  (http://www.atomikos.com/Main/WhichLicenseApplies)
+  - Transactions JTA (http://www.atomikos.com/ate/transactions-jta/) com.atomikos:transactions-jta:jar:4.0.6
+    License: Atomikos Multiple Licensing Scheme  (http://www.atomikos.com/Main/WhichLicenseApplies)
+  - Guava: Google Core Libraries for Java (http://code.google.com/p/guava-libraries/guava) com.google.guava:guava:bundle:18.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Java Transaction API (http://java.sun.com/products/jta) javax.transaction:jta:jar:1.1
+
+  - JLine (http://jline.sourceforge.net) jline:jline:jar:0.9.94
+    License: BSD  (LICENSE.txt)
+  - zookeeper  org.apache.zookeeper:zookeeper:pom:3.4.6
+
+  - SnakeYAML (http://www.snakeyaml.org) org.yaml:snakeyaml:bundle:1.16
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'ANTLR' (http://www.antlr.org)
+  - ANTLR 4 Runtime (http://www.antlr.org/antlr4-runtime) org.antlr:antlr4-runtime:jar:4.7.1
+    License: The BSD License  (http://www.antlr.org/license.html)
+
+From: 'Apache Software Foundation' (http://groovy-lang.org)
+  - Apache Groovy (http://groovy-lang.org) org.codehaus.groovy:groovy:jar:2.4.5
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Apache Log4j (http://logging.apache.org/log4j/1.2/) log4j:log4j:bundle:1.2.16
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'OpenTracing' (http://opentracing.io/)
+  - OpenTracing API (https://github.com/opentracing/opentracing-java/opentracing-api) io.opentracing:opentracing-api:jar:0.30.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - OpenTracing-noop (https://github.com/opentracing/opentracing-java/opentracing-noop) io.opentracing:opentracing-noop:jar:0.30.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - OpenTracing-util (https://github.com/opentracing/opentracing-java/opentracing-util) io.opentracing:opentracing-util:jar:0.30.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - JCL 1.1.1 implemented over SLF4J (http://www.slf4j.org) org.slf4j:jcl-over-slf4j:jar:1.7.7
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.7
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Codec (http://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.10
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Curator Client (http://curator.apache.org/curator-client) org.apache.curator:curator-client:bundle:2.10.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Curator Framework (http://curator.apache.org/curator-framework) org.apache.curator:curator-framework:bundle:2.10.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Curator Recipes (http://curator.apache.org/curator-recipes) org.apache.curator:curator-recipes:bundle:2.10.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Collections (http://commons.apache.org/proper/commons-collections/) org.apache.commons:commons-collections4:jar:4.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-api (http://shardingsphere.apache.org/sharding-core/sharding-core-api) org.apache.shardingsphere:sharding-core-api:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-common (http://shardingsphere.apache.org/sharding-core/sharding-core-common) org.apache.shardingsphere:sharding-core-common:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-entry (http://shardingsphere.apache.org/sharding-core/sharding-core-entry) org.apache.shardingsphere:sharding-core-entry:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-execute (http://shardingsphere.apache.org/sharding-core/sharding-core-execute) org.apache.shardingsphere:sharding-core-execute:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-merge (http://shardingsphere.apache.org/sharding-core/sharding-core-merge) org.apache.shardingsphere:sharding-core-merge:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-optimize (http://shardingsphere.apache.org/sharding-core/sharding-core-optimize) org.apache.shardingsphere:sharding-core-optimize:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-parse-common (http://shardingsphere.apache.org/sharding-core/sharding-core-parse/sharding-core-parse-common) org.apache.shardingsphere:sharding-core-parse-common:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-parse-mysql (http://shardingsphere.apache.org/sharding-core/sharding-core-parse/sharding-core-parse-mysql) org.apache.shardingsphere:sharding-core-parse-mysql:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-parse-oracle (http://shardingsphere.apache.org/sharding-core/sharding-core-parse/sharding-core-parse-oracle) org.apache.shardingsphere:sharding-core-parse-oracle:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-parse-postgresql (http://shardingsphere.apache.org/sharding-core/sharding-core-parse/sharding-core-parse-postgresql) org.apache.shardingsphere:sharding-core-parse-postgresql:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-parse-spi (http://shardingsphere.apache.org/sharding-core/sharding-core-parse/sharding-core-parse-spi) org.apache.shardingsphere:sharding-core-parse-spi:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-parse-sqlserver (http://shardingsphere.apache.org/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver) org.apache.shardingsphere:sharding-core-parse-sqlserver:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-rewrite (http://shardingsphere.apache.org/sharding-core/sharding-core-rewrite) org.apache.shardingsphere:sharding-core-rewrite:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-core-route (http://shardingsphere.apache.org/sharding-core/sharding-core-route) org.apache.shardingsphere:sharding-core-route:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-jdbc-core (http://shardingsphere.apache.org/sharding-jdbc/sharding-jdbc-core) org.apache.shardingsphere:sharding-jdbc-core:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-jdbc-orchestration (http://shardingsphere.apache.org/sharding-jdbc/sharding-jdbc-orchestration) org.apache.shardingsphere:sharding-jdbc-orchestration:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-jdbc-orchestration-spring-boot-starter (http://shardingsphere.apache.org/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter) org.apache.shardingsphere:sharding-jdbc-orchestration-spring-boot-starter:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-jdbc-orchestration-spring-namespace (http://shardingsphere.apache.org/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace) org.apache.shardingsphere:sharding-jdbc-orchestration-spring-namespace:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-jdbc-spring-boot-starter (http://shardingsphere.apache.org/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter) org.apache.shardingsphere:sharding-jdbc-spring-boot-starter:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-jdbc-spring-namespace (http://shardingsphere.apache.org/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-namespace) org.apache.shardingsphere:sharding-jdbc-spring-namespace:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-opentracing (http://shardingsphere.apache.org/sharding-opentracing) org.apache.shardingsphere:sharding-opentracing:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-orchestration-core (http://shardingsphere.apache.org/sharding-orchestration/sharding-orchestration-core) org.apache.shardingsphere:sharding-orchestration-core:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-orchestration-reg-api (http://shardingsphere.apache.org/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg-api) org.apache.shardingsphere:sharding-orchestration-reg-api:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-orchestration-reg-zookeeper-curator (http://shardingsphere.apache.org/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg-zookeeper-curator) org.apache.shardingsphere:sharding-orchestration-reg-zookeeper-curator:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-transaction-core (http://shardingsphere.apache.org/sharding-transaction/sharding-transaction-core) org.apache.shardingsphere:sharding-transaction-core:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-transaction-xa-atomikos-manager (http://shardingsphere.apache.org/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager) org.apache.shardingsphere:sharding-transaction-xa-atomikos-manager:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-transaction-xa-core (http://shardingsphere.apache.org/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core) org.apache.shardingsphere:sharding-transaction-xa-core:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sharding-transaction-xa-spi (http://shardingsphere.apache.org/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-spi) org.apache.shardingsphere:sharding-transaction-xa-spi:jar:4.0.0-RC2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

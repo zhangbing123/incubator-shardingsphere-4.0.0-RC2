@@ -1,0 +1,47 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:08:11+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 21
+
+Apache Licensed: 21
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/Alphabet.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/BaseRule.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/Comments.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/DALStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/DCLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/DDLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/DMLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/Keyword.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/Literals.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/PostgreSQLKeyword.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/StoreProcedure.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/Symbol.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/imports/postgresql/TCLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/antlr4/org/apache/shardingsphere/core/parse/autogen/PostgreSQLStatement.g4
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/java/org/apache/shardingsphere/core/parse/PostgreSQLParser.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/java/org/apache/shardingsphere/core/parse/PostgreSQLParserEntry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/resources/META-INF/parsing-rule-definition/postgresql/extractor-rule-definition.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/resources/META-INF/parsing-rule-definition/postgresql/filler-rule-definition.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/resources/META-INF/parsing-rule-definition/postgresql/sql-statement-rule-definition.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/resources/META-INF/services/org.apache.shardingsphere.core.parse.spi.SQLParserEntry
+ 
+*****************************************************

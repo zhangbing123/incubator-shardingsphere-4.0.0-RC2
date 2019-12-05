@@ -1,0 +1,2 @@
+org\apache\shardingsphere\core\parse\spi\SQLParserEntry.class
+org\apache\shardingsphere\core\parse\api\SQLParser.class

@@ -1,0 +1,80 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:08:44+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 54
+
+Apache Licensed: 54
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/loader/encrypt/EncryptSQLCasesRegistry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/loader/sharding/ShardingSQLCasesRegistry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/loader/sharding/ShardingUnsupportedSQLCasesRegistry.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/loader/SQLCasesLoader.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/SQLCase.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/SQLCases.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/SQLCaseType.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/encrypt/delete.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/encrypt/insert.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/encrypt/select.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/encrypt/update.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dal/reset.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dal/set.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dal/show.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/alter_login.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/alter_role.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/alter_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/create_login.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/create_role.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/create_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/deny_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/drop_login.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/drop_role.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/drop_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/grant_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/rename_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/revoke_user.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/set_default_role.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/set_password.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dcl/set_role.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/ddl/alter.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/ddl/create.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/ddl/drop.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/ddl/truncate.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dml/delete.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dml/insert.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dml/update.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_aggregate.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_comment.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_distinct.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_escape.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_expression.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_group_by.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_or.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_order_by.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_pagination.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_pagination_group_by_order_by.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_relation.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/dql/select_sub_query.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/sharding/tcl/tcl.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/main/resources/sql/unsupported/unsupported.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-sql-test/src/test/java/org/apache/shardingsphere/test/sql/SQLCasesLoaderTest.java
+ 
+*****************************************************

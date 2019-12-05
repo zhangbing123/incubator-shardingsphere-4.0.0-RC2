@@ -1,0 +1,10 @@
+org.apache.shardingsphere.shardingjdbc.orchestration.api
+org.apache.shardingsphere.shardingjdbc.orchestration.api.yaml
+org.apache.shardingsphere.shardingjdbc.orchestration.internal.circuit.connection
+org.apache.shardingsphere.shardingjdbc.orchestration.internal.circuit.datasource
+org.apache.shardingsphere.shardingjdbc.orchestration.internal.circuit.metadata
+org.apache.shardingsphere.shardingjdbc.orchestration.internal.circuit.resultset
+org.apache.shardingsphere.shardingjdbc.orchestration.internal.circuit.statement
+org.apache.shardingsphere.shardingjdbc.orchestration.internal.datasource
+org.apache.shardingsphere.shardingjdbc.orchestration.internal.util
+org.apache.shardingsphere.shardingjdbc.orchestration.internal.yaml

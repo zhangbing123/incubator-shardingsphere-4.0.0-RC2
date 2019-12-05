@@ -1,0 +1,74 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:07:15+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 48
+
+Apache Licensed: 48
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/encrypt/EncryptColumnRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/encrypt/EncryptorRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/encrypt/EncryptRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/encrypt/EncryptTableRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/masterslave/LoadBalanceStrategyConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/masterslave/MasterSlaveRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/RuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/KeyGeneratorConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/ShardingRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/ComplexShardingStrategyConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/HintShardingStrategyConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/InlineShardingStrategyConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/NoneShardingStrategyConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/ShardingStrategyConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/StandardShardingStrategyConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/TableRuleConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/TypeBasedSPIConfiguration.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/hint/HintManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/complex/ComplexKeysShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/complex/ComplexKeysShardingValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/hint/HintShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/hint/HintShardingValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/ShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/ShardingValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/standard/PreciseShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/standard/PreciseShardingValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/standard/RangeShardingAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/standard/RangeShardingValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/database/BranchDatabaseType.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/database/DatabaseType.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/database/DataSourceMetaData.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/database/MemorizedDataSourceMetaData.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/DatabaseTypeAwareSPI.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/encrypt/ShardingEncryptor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/encrypt/ShardingQueryAssistedEncryptor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/keygen/ShardingKeyGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/masterslave/MasterSlaveLoadBalanceAlgorithm.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/TypeBasedSPI.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/encrypt/EncryptorRuleConfigurationTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/masterslave/MasterSlaveRuleConfigurationTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/KeyGeneratorConfigurationTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/ComplexShardingStrategyConfigurationTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/HintShardingStrategyConfigurationTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/InlineShardingStrategyConfigurationTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/StandardShardingStrategyConfigurationTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/TableRuleConfigurationTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/hint/HintManagerTest.java
+ 
+*****************************************************

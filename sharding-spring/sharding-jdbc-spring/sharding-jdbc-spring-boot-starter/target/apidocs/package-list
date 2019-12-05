@@ -1,0 +1,6 @@
+org.apache.shardingsphere.shardingjdbc.spring.boot
+org.apache.shardingsphere.shardingjdbc.spring.boot.common
+org.apache.shardingsphere.shardingjdbc.spring.boot.encrypt
+org.apache.shardingsphere.shardingjdbc.spring.boot.masterslave
+org.apache.shardingsphere.shardingjdbc.spring.boot.sharding
+org.apache.shardingsphere.shardingjdbc.spring.boot.util

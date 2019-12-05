@@ -1,0 +1,80 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:10:51+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 54
+
+Apache Licensed: 54
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/connection/dialect/H2XAConnectionWrapper.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/connection/dialect/MariaDBXAConnectionWrapper.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/connection/dialect/MySQLXAConnectionWrapper.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/connection/dialect/PostgreSQLXAConnectionWrapper.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/connection/SingleXAConnection.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/connection/XAConnectionFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/connection/XAConnectionWrapper.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/AbstractUnsupportedSingleXADataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/H2XADataSourceDefinition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/MariaDBXADataSourceDefinition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/MySQLXADataSourceDefinition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/OracleXADataSourceDefinition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/PostgreSQLXADataSourceDefinition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/SQLServerXADataSourceDefinition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/XADataSourceDefinition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/XADataSourceDefinitionFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/SingleXADataSource.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/swapper/DataSourcePropertyProvider.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/swapper/DataSourcePropertyProviderLoader.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/swapper/DataSourceSwapper.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/swapper/impl/DefaultDataSourcePropertyProvider.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/swapper/impl/HikariCPPropertyProvider.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/jta/datasource/XADataSourceFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/manager/XATransactionManagerLoader.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java/org/apache/shardingsphere/transaction/xa/XAShardingTransactionManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/resources/META-INF/services/org.apache.shardingsphere.transaction.spi.ShardingTransactionManager
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/resources/META-INF/services/org.apache.shardingsphere.transaction.xa.jta.datasource.properties.XADataSourceDefinition
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/resources/META-INF/services/org.apache.shardingsphere.transaction.xa.jta.datasource.swapper.DataSourcePropertyProvider
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/fixture/DataSourceUtils.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/fixture/FixtureXATransactionManager.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/fixture/ReflectiveUtil.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/connection/dialect/MariaDBXAConnectionWrapperTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/connection/dialect/MySQLXAConnectionWrapperTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/connection/dialect/PostgreSQLXAConnectionWrapperTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/connection/SingleXAConnectionTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/connection/XAConnectionFactoryTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/H2XADataSourceDefinitionTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/MariaDBXADataSourceDefinitionTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/MySQLXADataSourceDefinitionTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/OracleXADataSourceDefinitionTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/PostgreSQLXADataSourceDefinitionTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/dialect/SQLServerXADataSourceDefinitionTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/properties/XADataSourceDefinitionFactoryTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/SingleXADataSourceTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/swapper/DataSourcePropertyProviderLoaderTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/swapper/DataSourceSwapperTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/swapper/impl/DefaultDataSourcePropertyProviderTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/swapper/impl/HikariCPPropertyProviderTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/jta/datasource/XADataSourceFactoryTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/manager/XATransactionManagerLoaderTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/java/org/apache/shardingsphere/transaction/xa/XAShardingTransactionManagerTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/resources/logback-test.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/test/resources/META-INF/services/org.apache.shardingsphere.transaction.xa.spi.XATransactionManager
+ 
+*****************************************************

@@ -1,0 +1,46 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:11:18+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 20
+
+Apache Licensed: 20
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/auth/MySQLAuthenticationEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/admin/initdb/MySQLComInitDbExecutor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/admin/ping/MySQLComPingExecutor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/admin/quit/MySQLComQuitExecutor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/generic/MySQLUnsupportedCommandExecutor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/MySQLCommandExecuteEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/MySQLCommandExecutorFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/close/MySQLComStmtCloseExecutor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/execute/MySQLComStmtExecuteExecutor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/prepare/MySQLComStmtPrepareExecutor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/reset/MySQLComStmtResetExecutor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/text/fieldlist/MySQLComFieldListPacketExecutor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/text/query/MySQLComQueryPacketExecutor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/MySQLErrPacketFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/MySQLProtocolFrontendEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/resources/META-INF/services/org.apache.shardingsphere.shardingproxy.frontend.spi.DatabaseProtocolFrontendEngine
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/reset/MySQLComStmtResetExecutorTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/MySQLErrPacketFactoryTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/MySQLFrontendEngineTest.java
+ 
+*****************************************************

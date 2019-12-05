@@ -1,0 +1,118 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-11-18T20:08:52+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 92
+
+Apache Licensed: 92
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/pom.xml
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/engine/OptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/segment/Column.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/segment/InsertColumns.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/segment/InsertValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/segment/Table.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/segment/Tables.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/statement/ConditionOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/statement/InsertOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/statement/OptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/EncryptOptimizeEngineFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/engine/dml/EncryptInsertOptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/engine/dml/EncryptWhereOptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/engine/EncryptOptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/segment/condition/EncryptCondition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/segment/condition/EncryptConditions.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/segment/condition/engine/WhereClauseEncryptConditionEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/segment/EncryptInsertColumns.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/statement/EncryptConditionOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/statement/EncryptInsertOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/encrypt/statement/EncryptOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/engnie/ddl/ShardingDropIndexOptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/engnie/dml/ShardingDeleteOptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/engnie/dml/ShardingInsertOptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/engnie/dml/ShardingSelectOptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/engnie/dml/ShardingUpdateOptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/engnie/ShardingOptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/AlwaysFalseRouteValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/AlwaysFalseShardingCondition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/engine/InsertClauseShardingConditionEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/engine/WhereClauseShardingConditionEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/generator/ConditionValue.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/generator/ConditionValueGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/generator/ConditionValueGeneratorFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/generator/impl/ConditionValueBetweenOperatorGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/generator/impl/ConditionValueCompareOperatorGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/generator/impl/ConditionValueInOperatorGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/ShardingCondition.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/condition/ShardingConditions.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/insert/GeneratedKey.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/insert/InsertOptimizeResultUnit.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/insert/ShardingInsertColumns.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/insert/value/InsertValueEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/groupby/GroupBy.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/groupby/GroupByEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/AggregationDistinctSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/AggregationSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/ColumnSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/DerivedColumn.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/DerivedSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/engine/SelectItemEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/engine/SelectItemsEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/ExpressionSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/SelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/SelectItems.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/ShorthandSelectItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/orderby/OrderBy.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/orderby/OrderByEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/orderby/OrderByItem.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/pagination/engine/LimitPaginationEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/pagination/engine/PaginationEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/pagination/engine/RowNumberPaginationEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/pagination/engine/TopPaginationEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/pagination/Pagination.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/ShardingOptimizeEngineFactory.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/statement/ddl/ShardingDropIndexOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/statement/dml/ShardingConditionOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/statement/dml/ShardingInsertOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/statement/dml/ShardingSelectOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/statement/ShardingOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/transparent/engine/TransparentOptimizeEngine.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/transparent/statement/TransparentOptimizedStatement.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/api/segment/ColumnTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/api/segment/InsertValueTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/api/segment/TablesTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/encrypt/engine/EncryptInsertOptimizeEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/encrypt/segment/condition/EncryptConditionTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/fixture/TestQueryAssistedShardingEncryptor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/fixture/TestShardingEncryptor.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/fixture/TestShardingKeyGenerator.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/sharding/engnie/ddl/ShardingDropIndexOptimizeEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/sharding/engnie/dml/ShardingInsertOptimizeEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/sharding/engnie/dml/ShardingSelectOptimizeEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/sharding/segment/insert/InsertOptimizedStatementTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/sharding/segment/insert/keygen/GeneratedKeyTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/AggregationDistinctSelectItemTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/DerivedColumnTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/sharding/segment/select/item/SelectItemsTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/transparent/engine/TransparentOptimizeEngineTest.java
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/resources/META-INF/services/org.apache.shardingsphere.spi.encrypt.ShardingEncryptor
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/resources/META-INF/services/org.apache.shardingsphere.spi.keygen.ShardingKeyGenerator
+  AL    D:/GitSource/incubator-shardingsphere-4.0.0-RC2/sharding-core/sharding-core-optimize/src/test/resources/yaml/optimize-rule.yaml
+ 
+*****************************************************

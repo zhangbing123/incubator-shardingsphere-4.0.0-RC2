@@ -1,0 +1,12 @@
+org.apache.shardingsphere.core.route
+org.apache.shardingsphere.core.route.hook
+org.apache.shardingsphere.core.route.router.masterslave
+org.apache.shardingsphere.core.route.router.sharding
+org.apache.shardingsphere.core.route.type
+org.apache.shardingsphere.core.route.type.broadcast
+org.apache.shardingsphere.core.route.type.complex
+org.apache.shardingsphere.core.route.type.defaultdb
+org.apache.shardingsphere.core.route.type.hint
+org.apache.shardingsphere.core.route.type.ignore
+org.apache.shardingsphere.core.route.type.standard
+org.apache.shardingsphere.core.route.type.unicast

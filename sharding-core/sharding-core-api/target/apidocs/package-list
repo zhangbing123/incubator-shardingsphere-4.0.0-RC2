@@ -1,0 +1,15 @@
+org.apache.shardingsphere.api.config
+org.apache.shardingsphere.api.config.encrypt
+org.apache.shardingsphere.api.config.masterslave
+org.apache.shardingsphere.api.config.sharding
+org.apache.shardingsphere.api.config.sharding.strategy
+org.apache.shardingsphere.api.hint
+org.apache.shardingsphere.api.sharding
+org.apache.shardingsphere.api.sharding.complex
+org.apache.shardingsphere.api.sharding.hint
+org.apache.shardingsphere.api.sharding.standard
+org.apache.shardingsphere.spi
+org.apache.shardingsphere.spi.database
+org.apache.shardingsphere.spi.encrypt
+org.apache.shardingsphere.spi.keygen
+org.apache.shardingsphere.spi.masterslave
