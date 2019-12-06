@@ -90,7 +90,13 @@ public class ShardingsphereSourceDemo {
 
         // 获取数据源对象
         Properties properties = new Properties();
+        //打印sql语句
         properties.setProperty("sql.show", "true");
+
+        /**
+         * new ShardingRule 初始化数据分片规则对象
+         * new ShardingDataSource 初始化数据源对象
+         */
         DataSource dataSource = ShardingDataSourceFactory.createDataSource(dataSourceMap, shardingRuleConfig, properties);
 
         //-------------测试部分-----------------//
@@ -98,8 +104,8 @@ public class ShardingsphereSourceDemo {
         //test.drop(dataSource);
         //test.create(dataSource);
         //插入数据
-        test.insertData(dataSource);
-//        test.selectRange(dataSource);
+//        test.insertData(dataSource);
+        test.selectRange(dataSource);
     }
 
     /**
@@ -135,15 +141,15 @@ public class ShardingsphereSourceDemo {
      * @throws SQLException
      */
     public void insertData(DataSource dataSource) throws SQLException {
-            execute(dataSource, "INSERT INTO t_user (user_id, username, age) VALUES (1, '1', 1)");
-            long l = executeAndGetGeneratedKey(dataSource, String.format("INSERT INTO t_order (user_id, order_name) VALUES (1, '订单1')"));
+            execute(dataSource, "INSERT INTO t_user (user_id, username, age) VALUES (2, '1', 1)");
+            long l = executeAndGetGeneratedKey(dataSource, String.format("INSERT INTO t_order (user_id, order_name) VALUES (2, '订单1')"));
     }
 
     public void selectRange(DataSource dataSource){
         try {
             Connection conn = dataSource.getConnection();
             Statement statement = conn.createStatement();
-            ResultSet result = statement.executeQuery(String.format("SELECT i.* FROM t_order o JOIN t_order_item i ON o.order_id=i.order_id WHERE o.order_id in (%d, %d)",405466009580318721l,405466010490482688l));
+            ResultSet result = statement.executeQuery(String.format("SELECT i.* FROM t_order o JOIN t_user i ON o.user_id=i.user_id WHERE o.user_id in (%d, %d)",1,2));
             while(result.next()){
                 log.info("result:"+result);
             }

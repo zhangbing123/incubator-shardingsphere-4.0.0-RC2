@@ -51,7 +51,7 @@ public final class ShardingRuleConfiguration implements RuleConfiguration {
     private ShardingStrategyConfiguration defaultTableShardingStrategyConfig;
     
     private KeyGeneratorConfiguration defaultKeyGeneratorConfig;
-    
+    //主备数据源配置
     private Collection<MasterSlaveRuleConfiguration> masterSlaveRuleConfigs = new LinkedList<>();
     
     private EncryptRuleConfiguration encryptRuleConfig;
