@@ -100,6 +100,7 @@ public final class ShardingStatement extends AbstractStatementAdapter {
                     connection.getRuntimeContext().getRule(), sqlRouteResult, connection.getRuntimeContext().getMetaData().getTable(),
                     // 执行SQL查询
                     statementExecutor.executeQuery());
+            //这一步进行真正的结果归并
             result = getResultSet(mergeEngine);
         } finally {
             currentResultSet = null;

@@ -67,6 +67,7 @@ public abstract class BaseShardingEngine {
      */
     public SQLRouteResult shard(final String sql, final List<Object> parameters) {
         List<Object> clonedParameters = cloneParameters(parameters);
+        //sql解析
         SQLRouteResult result = executeRoute(sql, clonedParameters);
         /*
          * 根据解析的logic-sql结构树对象重写真实的SQL语句

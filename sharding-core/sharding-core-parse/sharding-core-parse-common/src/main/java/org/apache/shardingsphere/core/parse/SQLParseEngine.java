@@ -69,7 +69,7 @@ public final class SQLParseEngine {
                 return cachedSQLStatement.get();
             }
         }
-        //真正解析SQL的地方
+        //真正解析SQL的地方parse()
         SQLStatement result = new SQLParseKernel(ParseRuleRegistry.getInstance(), databaseType, sql).parse();
         if (useCache) {
             cache.put(sql, result);

@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b67095b2-a1d6-4bc5-81f3-cdf1a4f9cd9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b52bd25e75684c5817702562da53d7fd274db1d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4db76d70f4d780dedff7df9f026e54b8a26de5e6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab7e37aaf6b78735068c4b2e18418213352d41b8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adaabf89df121a01e76cc399765576bf6198aa5e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cbf5acb87a10a8fb8fd096f29ea1a0f59c377036" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc39d8af2aa27a60792179268fcb05423b046f0b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3a7ad9759bc778f9d548c2c7a5ee211b7abd28c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8567aa39b18cc22bc4d5c229c001fec5c8bddf7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f562911f25dd961b229457a345cd9161fb670382" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b67095b2-a1d6-4bc5-81f3-cdf1a4f9cd9e" name="Default" comment="添加部分学习注释">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/ShardingRuleConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/ShardingRuleConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/target/test-classes/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/target/test-classes/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/target/classes/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/target/classes/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/target/" />
     <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-spi/target/" />
@@ -106,22 +97,25 @@
     <session id="1221115971">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="429" />
+          <entry key="java" value="483" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="429" />
+          <entry key="JAVA" value="483" />
+          <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -129,14 +123,14 @@
           <entry key="ShardingKeyGenerator" value="1" />
           <entry key="ShardingTransactionManager" value="1" />
           <entry key="class" value="1" />
-          <entry key="java" value="152" />
+          <entry key="java" value="270" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="152" />
+          <entry key="JAVA" value="270" />
           <entry key="SPI" value="2" />
           <entry key="XML" value="1" />
         </counts>
@@ -157,8 +151,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="153" column="43" lean-forward="true" selection-start-line="153" selection-start-column="43" selection-end-line="153" selection-end-column="43" />
+            <state relative-caret-position="146">
+              <caret line="148" column="24" lean-forward="true" selection-start-line="148" selection-end-line="149" />
             </state>
           </provider>
         </entry>
@@ -166,44 +160,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="101" selection-start-line="101" selection-end-line="101" />
+            <state relative-caret-position="184">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/SQLExecuteCallback.java">
+        <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/ShardingConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="165">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
+              <folding>
+                <element signature="e#4983#4984#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingExecuteEngine.java">
+        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/StatementRoutingEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="208">
+              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/SQLExecuteTemplate.java">
+        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/SimpleQueryShardingEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/StreamQueryResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+            <state relative-caret-position="417">
+              <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+              <folding>
+                <element signature="e#2383#2384#0" expanded="true" />
+                <element signature="e#2430#2431#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -211,10 +203,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/AbstractStatementExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="133" selection-start-line="133" selection-end-line="133" />
+            <state relative-caret-position="355">
+              <caret line="108" selection-start-line="108" selection-end-line="108" />
               <folding>
                 <element signature="e#4565#4574#0" expanded="true" />
+                <element signature="e#5454#5737#0" expanded="true" />
+                <element signature="e#5736#5737#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -223,8 +217,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            <state relative-caret-position="245">
+              <caret line="70" column="36" lean-forward="true" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -232,17 +226,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="89">
+              <caret line="68" column="4" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/masterslave/ShardingMasterSlaveRouter.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/sql/Statement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="165">
+              <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ShardingRouter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -280,7 +283,16 @@
       <find>isOverwrite</find>
       <find>sqlRouteResult</find>
       <find>dataNodeIndexMap</find>
+      <find>sqlParseEngine</find>
+      <find>parse</find>
+      <find>SQL</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\workspace\incubator-shardingsphere-4.0.0-RC2</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -294,13 +306,10 @@
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/spi/algorithm/TypeBasedSPIServiceLoader.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/rule/TableRule.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/spi/NewInstanceServiceLoader.java" />
-        <option value="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/SQLParseKernel.java" />
-        <option value="$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ParsingSQLRouter.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/StatementRoutingEngine.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/RoutingEngineFactory.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/builder/SQLBuilder.java" />
-        <option value="$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/hint/HintManagerTest.java" />
         <option value="$PROJECT_DIR$/sharding-proxy/sharding-proxy-bootstrap/src/main/resources/conf/config-sharding.yaml" />
         <option value="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/CuratorUtilsZKPathsZookeeper.java" />
@@ -312,9 +321,12 @@
         <option value="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/ShardingDataSourceFactory.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/rule/ShardingRule.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/ShardingRuleConfiguration.java" />
-        <option value="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java" />
-        <option value="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java" />
+        <option value="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java" />
+        <option value="$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ParsingSQLRouter.java" />
+        <option value="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java" />
+        <option value="$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java" />
+        <option value="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java" />
       </list>
     </option>
   </component>
@@ -354,77 +366,13 @@
             <path>
               <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
               <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-integration-test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
               <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="spi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-core-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-integration-test" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
@@ -436,6 +384,68 @@
               <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
               <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
               <item name="sharding-jdbc-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orchestration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orchestration" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orchestration" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
@@ -543,10 +553,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575623567266" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ross-wf" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575877641857" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -851,8 +862,17 @@
       <workItem from="1575516871723" duration="546000" />
       <workItem from="1575519519588" duration="289000" />
       <workItem from="1575521522646" duration="9628000" />
-      <workItem from="1575598159670" duration="9111000" />
+      <workItem from="1575598159670" duration="10097000" />
+      <workItem from="1575857723232" duration="8812000" />
     </task>
+    <task id="LOCAL-00001" summary="添加部分学习注释">
+      <created>1575623657529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575623657530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -864,13 +884,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159362000" />
+    <option name="totallyTimeSpent" value="169160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1934" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23212379" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23479189" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -880,8 +899,8 @@
       <window_info id="Nl-Palette" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42935377" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2982456" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3991228" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3267544" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -947,194 +966,72 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加部分学习注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加部分学习注释" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java</url>
-          <line>107</line>
-          <properties />
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java</url>
-          <line>149</line>
-          <properties />
-          <option name="timeStamp" value="119" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/ShardingDataSource.java</url>
-          <line>61</line>
-          <properties />
-          <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/ShardingConnection.java</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="123" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/ShardingConnection.java</url>
-          <line>117</line>
-          <properties />
-          <option name="timeStamp" value="124" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java</url>
-          <line>72</line>
-          <properties />
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java</url>
-          <line>80</line>
-          <properties />
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/AbstractStatementExecutor.java</url>
-          <line>99</line>
-          <properties />
-          <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/StatementRoutingEngine.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="128" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java</url>
-          <line>90</line>
-          <properties />
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java</url>
-          <line>91</line>
-          <properties />
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java</url>
-          <line>92</line>
-          <properties />
-          <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/SimpleQueryShardingEngine.java</url>
-          <line>49</line>
-          <properties />
-          <option name="timeStamp" value="132" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="133" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java</url>
-          <line>87</line>
-          <properties />
-          <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java</url>
-          <line>73</line>
-          <properties />
-          <option name="timeStamp" value="135" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/SimpleQueryShardingEngine.java</url>
-          <line>59</line>
-          <properties />
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/StatementRoutingEngine.java</url>
           <line>57</line>
           <properties />
-          <option name="timeStamp" value="137" />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/SQLParseKernel.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="161" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ParsingSQLRouter.java</url>
           <line>71</line>
           <properties />
-          <option name="timeStamp" value="138" />
+          <option name="timeStamp" value="163" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/RoutingEngineFactory.java</url>
-          <line>69</line>
+          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/ShardingOptimizeEngineFactory.java</url>
+          <line>52</line>
           <properties />
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/RoutingEngineFactory.java</url>
-          <line>128</line>
-          <properties />
-          <option name="timeStamp" value="140" />
+          <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/complex/ComplexRoutingEngine.java</url>
           <line>53</line>
           <properties />
-          <option name="timeStamp" value="141" />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/standard/StandardRoutingEngine.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/complex/CartesianRoutingEngine.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/masterslave/ShardingMasterSlaveRouter.java</url>
           <line>48</line>
           <properties />
-          <option name="timeStamp" value="142" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java</url>
-          <line>249</line>
-          <properties />
-          <option name="timeStamp" value="143" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java</url>
-          <line>90</line>
-          <properties />
-          <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java</url>
-          <line>101</line>
-          <properties />
-          <option name="timeStamp" value="145" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/AbstractStatementExecutor.java</url>
-          <line>131</line>
-          <properties />
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java</url>
-          <line>98</line>
-          <properties />
-          <option name="timeStamp" value="147" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java</url>
-          <line>108</line>
-          <properties />
-          <option name="timeStamp" value="148" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/MemoryQueryResult.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="149" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/StreamQueryResult.java</url>
-          <line>48</line>
-          <properties />
-          <option name="timeStamp" value="150" />
+          <option name="timeStamp" value="169" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -1154,37 +1051,32 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>resultSet.getMetaData()</expression-string>
+        <expression-string>getActualTableGroups(entry.getKey(), entry.getValue())</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>resultSet</expression-string>
+        <expression-string>toRoutingTableGroups(entry.getKey(), actualTableGroups)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>resultSet.getRowId(0)</expression-string>
+        <expression-string>getRoutingUnits(entry.getKey(), Sets.cartesianProduct(routingTableGroups))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>resultSet.getRowId(1)</expression-string>
+        <expression-string>getDataSourceLogicTablesMap().entrySet()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>resultSet.getRowId()</expression-string>
+        <expression-string>ParseRuleRegistry.getInstance()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>resultSet.getByte()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>shardingProperties.getValue(ShardingPropertiesConstant.SQL_SHOW)</expression-string>
+        <expression-string>ConnectionMode.MEMORY_STRICTLY == connectionMode</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -1194,123 +1086,57 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>connection.getRuntimeContext()</expression-string>
+        <expression-string>resultSet.getMetaData()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>runtimeContext.getShardingTransactionManagerEngine().getTransactionManager(transactionType)</expression-string>
+        <expression-string>resultSet</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/TransactionTypeHolder.java">
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ShardingRouterFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding>
-            <element signature="e#1065#1237#0" expanded="true" />
-            <element signature="e#1236#1237#0" expanded="true" />
-            <element signature="e#1614#1615#0" expanded="true" />
-            <element signature="e#1658#1659#0" expanded="true" />
-            <element signature="e#1762#1763#0" expanded="true" />
-            <element signature="e#1794#1795#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="456">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-base/sharding-transaction-base-seata-at/src/main/resources/META-INF/services/org.apache.shardingsphere.transaction.spi.ShardingTransactionManager">
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/cache/SQLParseResultCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/spi/ShardingTransactionManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        <state relative-caret-position="228">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/Collection.java">
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/QueryResultMetaData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="288" column="12" selection-start-line="288" selection-start-column="12" selection-end-line="288" selection-end-column="12" />
+        <state relative-caret-position="287">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/resources/META-INF/services/org.apache.shardingsphere.spi.keygen.ShardingKeyGenerator">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/spi/NewInstanceServiceLoader.java">
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/MemoryQueryResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        <state relative-caret-position="78">
+          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/spi/algorithm/keygen/ShardingKeyGeneratorServiceLoader.java">
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/ShardingResultSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-          <folding>
-            <element signature="e#1423#1424#0" expanded="true" />
-            <element signature="e#1472#1473#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="295">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/spi/algorithm/TypeBasedSPIServiceLoader.java">
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/MergeEngineFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/rule/TableRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="92" column="11" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/AbstractDataSourceAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/ServiceLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="537" column="31" selection-start-line="537" selection-start-column="31" selection-end-line="537" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/ShardingTransactionManagerEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-          <folding>
-            <element signature="e#1740#1741#0" expanded="true" />
-            <element signature="e#1788#1789#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/sql/ResultSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="1411" column="8" selection-start-line="1411" selection-start-column="8" selection-end-line="1411" selection-end-column="8" />
+        <state relative-caret-position="532">
+          <caret line="56" column="94" lean-forward="true" selection-start-line="56" selection-start-column="94" selection-end-line="56" selection-end-column="94" />
         </state>
       </provider>
     </entry>
@@ -1321,140 +1147,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/constant/properties/ShardingProperties.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/sql/Connection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/context/AbstractRuntimeContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/context/ShardingRuntimeContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/ShardingDataSourceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/prepare/SQLExecutePrepareTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/sql/Statement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ShardingRouterFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/hook/RoutingHook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/hook/SPIRoutingHook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ShardingRouter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/RoutingEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="1104" column="19" selection-start-line="1104" selection-start-column="19" selection-end-line="1104" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/rule/ShardingRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="170" column="45" lean-forward="true" selection-start-line="170" selection-start-column="45" selection-end-line="170" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/RoutingUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/standard/StandardRoutingEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/constant/properties/ShardingPropertiesConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/invocation/JdbcMethodInvocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
-          <folding>
-            <element signature="e#1404#1405#0" expanded="true" />
-            <element signature="e#1452#1453#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/WrapperAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/MemoryQueryResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="55" column="4" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+        <state relative-caret-position="203">
+          <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1465,9 +1161,280 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/ShardingConnection.java">
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/TransparentMergeEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding>
+            <element signature="e#1348#1349#0" expanded="true" />
+            <element signature="e#1415#1416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/MergeEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/SQLExecuteCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/StreamQueryResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingExecuteEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/SQLExecuteTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/PreparedQueryShardingEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/filler/SQLStatementFillerEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/sql/statement/dml/SelectStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/sql/statement/SQLStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/extractor/SQLSegmentsExtractorEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/parser/SQLAST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/statement/OptimizedStatement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/engine/OptimizeEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/standard/StandardRoutingEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/ShardingOptimizeEngineFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/RoutingEngineFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/invocation/JdbcMethodInvocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding>
+            <element signature="e#1404#1405#0" expanded="true" />
+            <element signature="e#1452#1453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/WrapperAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="70" column="19" lean-forward="true" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/masterslave/ShardingMasterSlaveRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/complex/CartesianRoutingEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/complex/ComplexRoutingEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/RoutingEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/rule/registry/ParseRuleRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="98" column="28" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/hook/ParsingHook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/spi/NewInstanceServiceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="77" column="36" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/parser/SQLParserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="74" column="66" lean-forward="true" selection-start-line="74" selection-start-column="66" selection-end-line="74" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/parser/SQLParserEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="54" column="48" lean-forward="true" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/SQLParseKernel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ParsingSQLRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ShardingRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/StatementRoutingEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/SimpleQueryShardingEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <folding>
+            <element signature="e#2383#2384#0" expanded="true" />
+            <element signature="e#2430#2431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="70" column="36" lean-forward="true" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/ShardingConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
           <caret line="117" selection-start-line="117" selection-end-line="117" />
           <folding>
             <element signature="e#4983#4984#0" expanded="true" />
@@ -1475,114 +1442,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/SimpleQueryShardingEngine.java">
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#2430#2431#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/StatementRoutingEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ParsingSQLRouter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/RoutingEngineFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/complex/ComplexRoutingEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="184">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/masterslave/ShardingMasterSlaveRouter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/StreamQueryResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/SQLExecuteCallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingExecuteEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/SQLExecuteTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/AbstractStatementExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        <state relative-caret-position="355">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
           <folding>
             <element signature="e#4565#4574#0" expanded="true" />
+            <element signature="e#5454#5737#0" expanded="true" />
+            <element signature="e#5736#5737#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="89">
+          <caret line="68" column="4" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="153" column="43" lean-forward="true" selection-start-line="153" selection-start-column="43" selection-end-line="153" selection-end-column="43" />
+        <state relative-caret-position="146">
+          <caret line="148" column="24" lean-forward="true" selection-start-line="148" selection-end-line="149" />
         </state>
       </provider>
     </entry>

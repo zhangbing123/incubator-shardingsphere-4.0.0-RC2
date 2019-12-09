@@ -104,8 +104,8 @@ public class ShardingsphereSourceDemo {
         //test.drop(dataSource);
         //test.create(dataSource);
         //插入数据
-//        test.insertData(dataSource);
-        test.selectRange(dataSource);
+        test.insertData(dataSource);
+//        test.selectRange(dataSource);
     }
 
     /**
@@ -141,8 +141,7 @@ public class ShardingsphereSourceDemo {
      * @throws SQLException
      */
     public void insertData(DataSource dataSource) throws SQLException {
-            execute(dataSource, "INSERT INTO t_user (user_id, username, age) VALUES (2, '1', 1)");
-            long l = executeAndGetGeneratedKey(dataSource, String.format("INSERT INTO t_order (user_id, order_name) VALUES (2, '订单1')"));
+            execute(dataSource, "INSERT INTO t_user (user_id, username, age) VALUES (6, '1', 1),(7, '4', 4)");
     }
 
     public void selectRange(DataSource dataSource){
