@@ -1,0 +1,7 @@
+
+gsquid:HiddenFieldCheckD"@Rename "databaseType" which hides the field declared at line 50.(ÏÚºàşÿÿÿÿ
+@squid:S2629E"$Invoke method(s) only conditionally.(ÀœŒûÿÿÿÿ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(µ•ëƒşÿÿÿÿ
+csquid:S00112i"FDefine and throw a dedicated exception instead of using a generic one.(Ê®§­şÿÿÿÿ
+Fsquid:S00108t")Either remove or fill this block of code.(ÎÙï÷şÿÿÿÿ

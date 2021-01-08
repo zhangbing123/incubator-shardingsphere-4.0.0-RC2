@@ -4,71 +4,138 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-entry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-execute" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-merge" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-optimize" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-optimize/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-mysql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-oracle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-oracle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-oracle/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-postgresql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-spi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-spi/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-rewrite" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-rewrite/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-route" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-distribution" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-distribution/sharding-jdbc-distribution" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-distribution/sharding-proxy-distribution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-distribution/sharding-proxy-distribution/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-distribution/shardingsphere-src-distribution" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-integration-test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-jdbc" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-orchestration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-orchestration/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-opentracing" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-opentracing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-opentracing/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-orchestration" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg-zookeeper-curator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg-zookeeper-curator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg-zookeeper-curator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-backend/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-bootstrap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-bootstrap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-bootstrap/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-postgresql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-postgresql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-postgresql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-spi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-spi/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-mysql/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-spring" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-namespace" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-namespace/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-namespace/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-sql-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-sql-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-sql-test/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana/sharding-transaction-xa-narayana-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana/sharding-transaction-xa-narayana-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana/sharding-transaction-xa-narayana-manager/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-spi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-spi/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-base" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-base/sharding-transaction-base-seata-at" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-base/sharding-transaction-base-seata-at/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-base/sharding-transaction-base-seata-at/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-zb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-zb/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>

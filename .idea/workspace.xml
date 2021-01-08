@@ -1,84 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b67095b2-a1d6-4bc5-81f3-cdf1a4f9cd9e" name="Default" comment="添加部分学习注释">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_30_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_30_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_30_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_30_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_30_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_30_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_30_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_31_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/033f134c7c4d08f4c7884bcf97b75717826cef6e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/040b7bde13bb80cafbc58d3ff33d3023d0d5e49c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/0881b91ee34699b5004e68c8c835ff24a6d633b5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a19561f700c6f241cb2804acebf7dedc0ecd334" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0bd2746e64bb0f74dbed61adbfb62cb7fe1db13c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f5588fa8dd83342c9a9dc8f510378a619c6ce69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0fd3e1a63fdfbee3eff03e5db6f394bd5033dba9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11684975e09f2e546895d6c9ff5169ec2ec2da46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/1819748f8abe329362ad27534c50dc19be8e7e72" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bc2185ccbddf9dea9570cbd0d72118db7332dc0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e6173b13b647f5ac9d95f6ccd6430d3eea2ff4c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/2303c36c5f7b30015bfa7343d9d9766be2ebffc3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24cd4a80704436092ba3b353cdbe1e93a3b75486" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/269029293a0cece46a28ae8fb64a65cdfe810080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2af3f4c36b932664848f3c283d490ed36b6da911" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2beb9215e3d0dfdf869b6a24772c1da3ab48219a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e6cefea5047f16dd1ae20192da22672e7123c68" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31f8b5fee2c65091cdadbafab98cbfeb9fe805cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/376d0f570eea383ccb0da1738ff60d62b27ddc92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e1770dd5c943d0f164f29253ecd07734b62c49c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/406f360b8e3cf2132bb61a2b17822a11028cf1ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b65ddefb9dca1275798a97d62c4931ba9776f1e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e78e755295ede8ec657a767aa09673a8acd1280" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f071f749adc4d0d834f4fe1fff8e34996316525" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52011e262d215fb88e591f760fbbb488aac46011" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52e528e99837848baa4e429f2d4ea23ac601ca4a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a42927e6fc3719847e7e1c751793773eaf6c8a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cb737621df640794734421c7880f7d1b6374e80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f544e8b9d7f06c36415ab891824c4491c3df653" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61e3da330d9a6f8fd6a810be2fff7d48a92606e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64af3e27c428e76b0dc0714b67703bbd0e30223f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65864ce0fde3a17bc39d79e1109fba1ba61d34a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6cbcb999cb5df56c8e2c49422a5fafa1768ede66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ea75b64ccc64edcd9ad8092ddab07290d79c583" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/7146101f99f837855156361c586429b0e4c0af3f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/714cc2fb22bd889bff070e56d300f2125f714e45" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/750cdf03f72b6137cf428accf8cd8e80ce2a69b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77480adafa214d345606ac615e60371c338c0d94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/791f8d4af65f541500d70ba5761b6f4f4361752f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7ad6f3b0c7c0779b06bf5d3538d412d8a9a6a223" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d38c88f3acc0c39dad171f9d52554d90b92e596" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e2bca46e149baf7e49bbe9012ddf2619e7b7cbb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/8191b5f986abab1431aa742793065291ae8cdc39" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82897e3d0973dca91f41ce9e990a5099af69536a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/895ce5f40cd8a2dd0c1c93bd1e699a528d04a4af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8fd4a148d0ccea3b395c12a0171c87aece3c1bde" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9ad83e4d6e9eb72fe1ddbaa572ac92531bcac8af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b84899bd0f1a921d368338c43bca8a59994b47f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9bee2c43ad3cba8595f0bf1505df58f6188d9995" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4c0a51547645ae06b195d773e38cbc0ca54ad20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9e91dd0a746548b71aee4175f1ed3820cb4af0e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aadebfa35d838480f2e0be520209571e39191035" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adcc12c7545df4675031a06538f73a8495e5868c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/aff092f56c5d8d1ddc455384feb1edac13b2a52f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2135ba65406f9c03da89efdadd12537d0131250" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b464f92c9784bc9782cbc83c94fab2b466b8725e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b74ded8015deba08cf2372eea60dfc5956424a15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb7bf492fb5aed101bf965d2f78f9e4ebb30f000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc1f5ed817a01dc2f41b662061c9b5b21365b04b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd789d2fefb33d624982c7773af1691312d84dd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdf873728c4f67a7ac88d3daded6f23749b64d6d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2788d2595a73ea73f67e0030ad9dda33a8c1ec4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8461e3ef8726c3abf3e7107c777470ad5fade6d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c9370e883e2d5062ebdba46532faab30aa2c5a1d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caab9bf5b157b0098be440087940ce047574aa4e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3b3847cde4ecb5bedcef4411e909910c988c325" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d71e79c4b658d356eda8393036d1ab461f7819df" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e163797d5193f5ef80dbf8cab98adc13bfe1a979" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e28b52b0869728167cdb44373475490758f3628a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e728d44b502bd95f0653c9e5ce393f1752b303bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e75fe6323a077bff499f0ca3cf0a457a2f3a579e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e970fa9a10c6ecb72b5ebad4c16e48acd081aad4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec8e2e0b7b9d1361c6d2bf65d1e27955f2c72f04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef1a072b8a7e7427a5a850cd59d14b199ae0887e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1a178188897de438205e67d9f20096c17d817b7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f40f504ea13194c3e0776c0dc6ea1d9d928b8fd1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f56b5a5ac535e7a562b16baab82380018f7e57a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb03f36e3b99610cdc82269270c3e4ecd46a035e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fbd3ccfa869ee5c28a93d180bfe8c1ac14086bfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fee11cb37ad6e35c0e4002fad7cf284f57493665" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sharding-zb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sharding-zb/sharding-zb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_25_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_25_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_26_BUILD_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc39d8af2aa27a60792179268fcb05423b046f0b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc39d8af2aa27a60792179268fcb05423b046f0b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/target/classes/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/target/classes/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-core/sharding-core-entry/target/classes/org/apache/shardingsphere/core/BaseShardingEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-core/sharding-core-entry/target/classes/org/apache/shardingsphere/core/BaseShardingEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-core/sharding-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-core/sharding-core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-distribution/sharding-distribution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-distribution/sharding-distribution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-integration-test/sharding-integration-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-integration-test/sharding-integration-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/target/test-classes/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/target/test-classes/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-orchestration/sharding-orchestration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-orchestration/sharding-orchestration.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-proxy/sharding-proxy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-proxy/sharding-proxy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/sharding-jdbc-orchestration-spring-boot-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/sharding-jdbc-orchestration-spring-boot-starter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/sharding-jdbc-orchestration-spring-namespace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/sharding-jdbc-orchestration-spring-namespace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/sharding-jdbc-spring-boot-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/sharding-jdbc-spring-boot-starter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-namespace/sharding-jdbc-spring-namespace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-namespace/sharding-jdbc-spring-namespace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-spring/sharding-spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-spring/sharding-spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-2pc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-2pc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana/sharding-transaction-xa-narayana.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana/sharding-transaction-xa-narayana.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-base/sharding-transaction-base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-transaction/sharding-transaction-base/sharding-transaction-base.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-transaction/sharding-transaction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-transaction/sharding-transaction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shardingsphere.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shardingsphere.iml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-spi/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-postgresql/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-backend/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-distribution/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-base/sharding-transaction-base-seata-at/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-route/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-core/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-parse/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-postgresql/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-entry/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-integration-test/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-boot-starter/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-spi/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-common/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-namespace/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg-zookeeper-curator/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-sqlserver/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-test/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/sharding-jdbc-spring-namespace/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-core/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-bootstrap/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-execute/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-sql-test/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg/sharding-orchestration-reg-api/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-postgresql/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-oracle/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-base/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-merge/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-optimize/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-spring/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-reg/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-core/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/sharding-proxy-transport-mysql/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-orchestration/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-common/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-distribution/sharding-proxy-distribution/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-opentracing/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-orchestration/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-spi/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-api/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-jdbc/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-spring/sharding-jdbc-spring/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-spring/sharding-jdbc-orchestration-spring/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-mysql/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-distribution/sharding-jdbc-distribution/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana/sharding-transaction-xa-narayana-manager/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-orchestration/sharding-orchestration-core/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-distribution/shardingsphere-src-distribution/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-rewrite/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-proxy/sharding-proxy-transport/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/target/" />
-    <ignored path="$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,141 +151,81 @@
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1221115971">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="483" />
-          <entry key="txt" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="483" />
-          <entry key="PLAIN_TEXT" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="ShardingKeyGenerator" value="1" />
-          <entry key="ShardingTransactionManager" value="1" />
-          <entry key="class" value="1" />
-          <entry key="java" value="270" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="270" />
-          <entry key="SPI" value="2" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1379560427">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="148" column="24" lean-forward="true" selection-start-line="148" selection-end-line="149" />
+            <state relative-caret-position="519">
+              <caret line="158" selection-start-line="158" selection-end-line="158" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java">
+        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/keygen/ShardingKeyGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="228">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/ShardingConnection.java">
+        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/strategy/keygen/SnowflakeShardingKeyGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="117" selection-start-line="117" selection-end-line="117" />
+            <state relative-caret-position="1482">
+              <caret line="102" column="38" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/dbtest/fixture/ConstantShardingKeyGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
               <folding>
-                <element signature="e#4983#4984#0" expanded="true" />
+                <element signature="e#1279#1280#0" expanded="true" />
+                <element signature="e#1303#1304#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/StatementRoutingEngine.java">
+        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/MergeEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+            <state relative-caret-position="361">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/SimpleQueryShardingEngine.java">
+        <entry file="file://$PROJECT_DIR$/jenkinsfile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/DQLMergeEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
-              <folding>
-                <element signature="e#2383#2384#0" expanded="true" />
-                <element signature="e#2430#2431#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1311">
+              <caret line="112" column="24" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/AbstractStatementExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="108" selection-start-line="108" selection-end-line="108" />
-              <folding>
-                <element signature="e#4565#4574#0" expanded="true" />
-                <element signature="e#5454#5737#0" expanded="true" />
-                <element signature="e#5736#5737#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="70" column="36" lean-forward="true" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="68" column="4" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+            <state relative-caret-position="817">
+              <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -235,17 +233,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/sql/Statement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ShardingRouter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+            <state relative-caret-position="779">
+              <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -324,9 +313,9 @@
         <option value="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ParsingSQLRouter.java" />
-        <option value="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java" />
         <option value="$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/BaseShardingEngine.java" />
         <option value="$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java" />
+        <option value="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java" />
       </list>
     </option>
   </component>
@@ -336,13 +325,6 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="MavenProjectNavigator">
     <treeState />
   </component>
@@ -351,6 +333,7 @@
     <option name="width" value="1934" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectId" id="1mmIRgQrk0HKUC2YBhb6hzhIJNh" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -363,186 +346,6 @@
               <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
               <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-integration-test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-integration-test" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc-test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc-core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="orchestration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="orchestration" type="462c0819:PsiDirectoryNode" />
-              <item name="internal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-jdbc-orchestration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="orchestration" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base-seata-at" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base-seata-at" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base-seata-at" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base-seata-at" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-base-seata-at" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingsphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incubator-shardingsphere-4.0.0-RC2" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction" type="462c0819:PsiDirectoryNode" />
-              <item name="sharding-transaction-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="transaction" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -552,12 +355,28 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575877641857" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575944817827" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -567,18 +386,6 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.apache.shardingsphere.tuling" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.ShardingsphereSourceDemo">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -654,6 +461,7 @@
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
@@ -666,6 +474,7 @@
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <properties />
@@ -678,6 +487,7 @@
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
@@ -718,12 +528,13 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="sharding-core-entry" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -736,7 +547,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -796,7 +607,8 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -804,16 +616,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
@@ -823,11 +635,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Maven.shardingsphere [install] (1)" />
-      <item itemvalue="JUnit.ColumnTest.assertEqualsForDifferentObjectType" />
       <item itemvalue="Application.ShardingsphereSourceDemo" />
-      <item itemvalue="JUnit.HintShardingStrategyConfigurationTest.assertConstructorWithFullArguments" />
       <item itemvalue="Application.Bootstrap" />
+      <item itemvalue="JUnit.ColumnTest.assertEqualsForDifferentObjectType" />
+      <item itemvalue="JUnit.HintShardingStrategyConfigurationTest.assertConstructorWithFullArguments" />
+      <item itemvalue="Maven.shardingsphere [install] (1)" />
     </list>
     <recent_temporary>
       <list>
@@ -838,6 +650,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -863,7 +676,9 @@
       <workItem from="1575519519588" duration="289000" />
       <workItem from="1575521522646" duration="9628000" />
       <workItem from="1575598159670" duration="10097000" />
-      <workItem from="1575857723232" duration="8812000" />
+      <workItem from="1575857723232" duration="14913000" />
+      <workItem from="1609725918489" duration="104000" />
+      <workItem from="1610092345048" duration="2343000" />
     </task>
     <task id="LOCAL-00001" summary="添加部分学习注释">
       <created>1575623657529</created>
@@ -872,7 +687,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575623657530</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加部分学习注释">
+      <created>1575877681942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575877681942</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -884,12 +706,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169160000" />
+    <option name="totallyTimeSpent" value="175365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1934" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23479189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23745997" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -899,7 +721,7 @@
       <window_info id="Nl-Palette" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3991228" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2236842" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3267544" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -961,10 +783,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加部分学习注释" />
@@ -976,67 +795,54 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/StatementRoutingEngine.java</url>
           <line>57</line>
-          <properties />
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="159" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/SQLParseEngine.java</url>
           <line>72</line>
-          <properties />
           <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/SQLParseKernel.java</url>
           <line>60</line>
-          <properties />
           <option name="timeStamp" value="161" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ParsingSQLRouter.java</url>
           <line>71</line>
-          <properties />
           <option name="timeStamp" value="163" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/ShardingOptimizeEngineFactory.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/complex/ComplexRoutingEngine.java</url>
           <line>53</line>
-          <properties />
           <option name="timeStamp" value="166" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/standard/StandardRoutingEngine.java</url>
           <line>81</line>
-          <properties />
           <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/complex/CartesianRoutingEngine.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/masterslave/ShardingMasterSlaveRouter.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="169" />
         </line-breakpoint>
       </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1098,129 +904,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ShardingRouterFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/cache/SQLParseResultCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/QueryResultMetaData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/MemoryQueryResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/ShardingResultSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/MergeEngineFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="56" column="94" lean-forward="true" selection-start-line="56" selection-start-column="94" selection-end-line="56" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/AbstractStatementAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/ShardingDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/TransparentMergeEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-          <folding>
-            <element signature="e#1348#1349#0" expanded="true" />
-            <element signature="e#1415#1416#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/MergeEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/SQLExecuteCallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/StreamQueryResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/ShardingExecuteEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/SQLExecuteTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-entry/src/main/java/org/apache/shardingsphere/core/PreparedQueryShardingEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/core/filler/SQLStatementFillerEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-parse/sharding-core-parse-common/src/main/java/org/apache/shardingsphere/core/parse/sql/statement/dml/SelectStatement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -1295,10 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
           <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-          <folding>
-            <element signature="e#1404#1405#0" expanded="true" />
-            <element signature="e#1452#1453#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1411,10 +1090,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
           <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
-          <folding>
-            <element signature="e#2383#2384#0" expanded="true" />
-            <element signature="e#2430#2431#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1425,53 +1100,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/sql/Statement.java">
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/AbstractStatementExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+        <state relative-caret-position="355">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/ShardingConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
-          <folding>
-            <element signature="e#4983#4984#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="241">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/ShardingDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/microsoft/sqlserver/mssql-jdbc/6.1.7.jre7-preview/mssql-jdbc-6.1.7.jre7-preview.jar!/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="1839" column="25" selection-start-line="1839" selection-start-column="25" selection-end-line="1839" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="236">
+          <caret line="214" column="19" selection-start-line="214" selection-start-column="19" selection-end-line="214" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/AbstractStatementExecutor.java">
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/common/StreamMergedResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-          <folding>
-            <element signature="e#4565#4574#0" expanded="true" />
-            <element signature="e#5454#5737#0" expanded="true" />
-            <element signature="e#5736#5737#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="228">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="68" column="4" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+        <state relative-caret-position="219">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/iterator/IteratorStreamMergedResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/TransparentMergeEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/atomikos/transactions-api/4.0.6/transactions-api-4.0.6.jar!/com/atomikos/datasource/ResourceException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/ShardingDataSourceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/MasterSlaveDataSourceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/EncryptDataSourceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/tuling/ShardingsphereSourceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="148" column="24" lean-forward="true" selection-start-line="148" selection-end-line="149" />
+        <state relative-caret-position="519">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/keygen/ShardingKeyGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/strategy/keygen/SnowflakeShardingKeyGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="102" column="38" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-integration-test/sharding-jdbc-test/src/test/java/org/apache/shardingsphere/dbtest/fixture/ConstantShardingKeyGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="e#1279#1280#0" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/MergeEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jenkinsfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/DQLMergeEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="112" column="24" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
         </state>
       </provider>
     </entry>

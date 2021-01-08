@@ -44,6 +44,7 @@
         
         <module>sharding-distribution</module>
         <module>sharding-integration-test</module>
+        <module>sharding-zb</module>
     </modules>
     
     <properties>
