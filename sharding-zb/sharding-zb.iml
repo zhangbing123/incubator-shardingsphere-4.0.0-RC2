@@ -13,7 +13,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="sharding-core" />
-    <orderEntry type="library" scope="TEST" name="Maven: mysql:mysql-connector-java:5.1.47" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: mysql:mysql-connector-java:5.1.47" level="project" />
     <orderEntry type="library" name="Maven: com.zaxxer:HikariCP-java7:2.4.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.commons:commons-dbcp2:2.2.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.commons:commons-pool2:2.5.0" level="project" />
@@ -40,6 +40,7 @@
     <orderEntry type="module" module-name="sharding-core-execute" />
     <orderEntry type="module" module-name="sharding-core-merge" />
     <orderEntry type="module" module-name="sharding-transaction-core" />
+    <orderEntry type="library" name="Maven: com.alibaba:druid:1.1.11" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:18.0" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.7" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.7" level="project" />

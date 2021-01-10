@@ -20,8 +20,8 @@
         <module name="sharding-core-parse-sqlserver" />
         <module name="sharding-zb" />
         <module name="sharding-core-common" />
-        <module name="sharding-transaction-xa-bitronix-manager" />
         <module name="sharding-proxy-frontend-mysql" />
+        <module name="sharding-transaction-xa-bitronix-manager" />
         <module name="sharding-opentracing" />
         <module name="sharding-core-optimize" />
         <module name="sharding-jdbc-orchestration-spring-namespace" />

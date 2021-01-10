@@ -8,17 +8,14 @@ import org.apache.shardingsphere.api.config.sharding.strategy.InlineShardingStra
 import org.apache.shardingsphere.shardingjdbc.api.ShardingDataSourceFactory;
 
 import javax.sql.DataSource;
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class ShardingJdbc {
 
-    public static void main(String[] args) throws SQLException {
+    public static void main(String[] args) throws SQLException, ClassNotFoundException {
 
         // 配置真实数据源
         Map<String, DataSource> dataSourceMap = new ConcurrentHashMap<>(2);//为两个数据库的datasource
@@ -79,10 +76,16 @@ public class ShardingJdbc {
 
         //-------------测试部分-----------------//
         ShardingJdbc test = new ShardingJdbc();
-        //test.drop(dataSource);
-        //test.create(dataSource);
+        test.drop(dataSource);
+        test.create(dataSource);
         //插入数据
-        test.insertData(dataSource);
+        Connection conn = dataSource.getConnection();
+        Statement statement = conn.createStatement();
+
+        String sql = "INSERT INTO t_order (user_id, status) VALUES (1, '2'),( 4, '1')";
+        statement.execute(sql);
+
+//        test.insertData(dataSource);
 //        test.selectRange(dataSource);
 
     }
