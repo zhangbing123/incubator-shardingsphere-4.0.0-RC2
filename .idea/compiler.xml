@@ -10,8 +10,8 @@
         <module name="sharding-proxy-common" />
         <module name="sharding-sql-test" />
         <module name="sharding-jdbc-core" />
-        <module name="sharding-jdbc-spring-namespace" />
         <module name="sharding-transaction-xa-core" />
+        <module name="sharding-jdbc-spring-namespace" />
         <module name="sharding-proxy-distribution" />
         <module name="sharding-core-parse-spi" />
         <module name="sharding-jdbc-distribution" />
@@ -20,15 +20,15 @@
         <module name="sharding-core-parse-sqlserver" />
         <module name="sharding-zb" />
         <module name="sharding-core-common" />
-        <module name="sharding-proxy-frontend-mysql" />
         <module name="sharding-transaction-xa-bitronix-manager" />
-        <module name="sharding-core-optimize" />
+        <module name="sharding-proxy-frontend-mysql" />
         <module name="sharding-opentracing" />
+        <module name="sharding-core-optimize" />
         <module name="sharding-jdbc-orchestration-spring-namespace" />
         <module name="sharding-transaction-xa-spi" />
-        <module name="sharding-core-parse-common" />
-        <module name="sharding-jdbc-orchestration-spring-boot-starter" />
         <module name="sharding-orchestration-reg-api" />
+        <module name="sharding-jdbc-orchestration-spring-boot-starter" />
+        <module name="sharding-core-parse-common" />
         <module name="sharding-core-merge" />
         <module name="sharding-transaction-xa-narayana-manager" />
         <module name="sharding-proxy-transport-postgresql" />
@@ -36,24 +36,24 @@
         <module name="sharding-transaction-base-seata-at" />
         <module name="sharding-core-api" />
         <module name="sharding-core-parse-mysql" />
-        <module name="sharding-orchestration-core" />
         <module name="shardingsphere-src-distribution" />
+        <module name="sharding-orchestration-core" />
         <module name="sharding-proxy-transport-core" />
         <module name="sharding-core-entry" />
         <module name="sharding-core-parse-oracle" />
-        <module name="sharding-jdbc-test" />
         <module name="sharding-proxy-backend" />
+        <module name="sharding-jdbc-test" />
         <module name="sharding-jdbc-orchestration" />
         <module name="sharding-proxy-transport-mysql" />
         <module name="sharding-transaction-xa-atomikos-manager" />
         <module name="sharding-proxy-frontend-spi" />
-        <module name="sharding-core-parse-postgresql" />
         <module name="sharding-transaction-core" />
+        <module name="sharding-core-parse-postgresql" />
         <module name="sharding-core-rewrite" />
         <module name="sharding-orchestration-reg-zookeeper-curator" />
         <module name="sharding-core-route" />
-        <module name="sharding-proxy-frontend-core" />
         <module name="sharding-proxy-frontend-postgresql" />
+        <module name="sharding-proxy-frontend-core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

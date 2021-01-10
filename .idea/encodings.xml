@@ -113,18 +113,15 @@
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-atomikos/sharding-transaction-xa-atomikos-manager/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-bitronix/sharding-transaction-xa-bitronix-manager/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-core/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana/sharding-transaction-xa-narayana-manager" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana/sharding-transaction-xa-narayana-manager/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-narayana/sharding-transaction-xa-narayana-manager/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-spi" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-transaction/sharding-transaction-2pc/sharding-transaction-xa/sharding-transaction-xa-spi/src/main/java" charset="UTF-8" />
